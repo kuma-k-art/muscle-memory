@@ -1,0 +1,5293 @@
+{
+  "version": 1,
+  "equipment": [
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f62656e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "bench"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "bench_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f696e636c696e65",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "incline"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "incline_bench_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f62656e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "bench"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dumbbell_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f666c79",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "fly"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dumbbell_fly"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f706563466c79",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "pecFly"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "pec_fly"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63686573745072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "multi_press",
+        "machine_incline_chest_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "hinge"
+      ],
+      "bodyParts": [
+        "背中",
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "deadlift",
+        "romanian_deadlift",
+        "stiff_leg_deadlift",
+        "sumo_deadlift",
+        "snatch_grip_deadlift",
+        "good_morning"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "lat_pulldown",
+        "wide_grip_lat_pulldown",
+        "narrow_grip_lat_pulldown"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f726f77",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "seated_row",
+        "one_arm_cable_row"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f73696e676c65526f77",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "singleRow"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "one_hand_row"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d930f330c15f6261636b457874656e73696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ベンチ",
+      "equipmentCategory": "ベンチ",
+      "movementType": [
+        "backExtension"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "back_extension"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6f766572686561645072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "shoulder_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f6c61746572616c5261697365",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "side_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f66726f6e745261697365",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "frontRaise"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "front_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f72657665727365466c79",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "reverseFly"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "rear_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f6375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "barbell_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f6375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dumbbell_curl",
+        "hammer_curl",
+        "seated_incline_dumbbell_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f70757368646f776e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "pushdown"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "triceps_pushdown",
+        "rope_triceps_pushdown"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f736b756c6c43727573686572",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "skullCrusher"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "skull_crusher"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f7371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "squat",
+        "front_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6c65675072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "legPress"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "leg_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6c6567457874656e73696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "leg_extension"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6c65674375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "legCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "leg_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f616464756374696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "adduction"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "inner_thigh"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f616264756374696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "abduction"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "outer_thigh"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63616c66",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "calf"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "calf_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f6372756e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "crunch"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "crunch"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6372756e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "crunch"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "abdominal"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f6c65675261697365",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "legRaise"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "leg_raise",
+        "knee_raise",
+        "parallel_bar_knee_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f706c616e6b",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "plank"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "plank"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f696e636c696e65",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "incline"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "incline_dumbbell_bench_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f62656e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "bench"
+      ],
+      "bodyParts": [
+        "胸",
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_bench_press",
+        "smith_close_grip_bench_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f696e636c696e65",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "incline"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_incline_bench_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "iso_lateral_chest_press",
+        "plate_loaded_chest_press",
+        "plate_loaded_incline_press",
+        "plate_loaded_decline_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "pecFly"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "cable_chest_fly",
+        "cable_high_to_low_fly",
+        "cable_low_to_high_fly"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "iso_lateral_row",
+        "iso_lateral_low_row",
+        "high_row",
+        "chest_supported_row",
+        "dy_row",
+        "machine_t_bar_row"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f737472616967687441726d",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "straightArm"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "straight_arm_lat_pulldown",
+        "cable_pullover"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f7371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f73706c69745371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "splitSquat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_bulgarian_split_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f68696e6765",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "hinge"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_romanian_deadlift"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f63616c66",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "calf"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_calf_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f6375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "cable_biceps_curl",
+        "cable_hammer_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_455a30d030fc5f6375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "EZバー",
+      "equipmentCategory": "EZバー",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "ez_bar_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f6f76657268656164457874656e73696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "overheadExtension"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "overhead_cable_triceps_extension"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930df30b930de30b730f35f6f766572686561645072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スミスマシン",
+      "equipmentCategory": "スミスマシン",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "smith_shoulder_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f6c61746572616c5261697365",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "cable_lateral_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f72657665727365466c79",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "reverseFly"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "face_pull"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130fc30d630eb5f6361626c654372756e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケーブル",
+      "equipmentCategory": "ケーブル",
+      "movementType": [
+        "cableCrunch"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "cable_crunch"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "hack_squat",
+        "v_squat",
+        "pendulum_squat",
+        "belt_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f6f766572686561645072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "plate_loaded_shoulder_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f70756c6c6f766572",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "pullover"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_pullover"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f646970",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "dip"
+      ],
+      "bodyParts": [
+        "胸",
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "assisted_dip",
+        "seated_dip"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f70756c6c7570",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "pullup"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "assisted_pullup"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f686970546872757374",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "hipThrust"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_hip_thrust"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f686970546872757374",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "hipThrust"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "glute_drive"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f73656174656443616c66",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "seatedCalf"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "seated_calf_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6c79696e674375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "lyingCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "lying_leg_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f72657665727365466c79",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "reverseFly"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "rear_delt_machine_fly"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f73706c69745371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "splitSquat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "bulgarian_split_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30e930f330c930de30a430f35f62656e74526f77",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ランドマイン",
+      "equipmentCategory": "ランドマイン",
+      "movementType": [
+        "bentRow"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "t_bar_row",
+        "landmine_row"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f62656e74526f77",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "bentRow"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "pendlay_row",
+        "barbell_bent_over_row"
+      ]
+    },
+    {
+      "equipmentId": "generic_30e930f330c930de30a430f35f6c616e646d696e655072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ランドマイン",
+      "equipmentCategory": "ランドマイン",
+      "movementType": [
+        "landminePress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "landmine_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30bb30fc30d530c630a330b930af30ef30c330c830d030fc5f7371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "セーフティスクワットバー",
+      "equipmentCategory": "セーフティスクワットバー",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "safety_bar_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c830e930c330d730d030fc5f68696e6765",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "トラップバー",
+      "equipmentCategory": "トラップバー",
+      "movementType": [
+        "hinge"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "trap_bar_deadlift"
+      ]
+    },
+    {
+      "equipmentId": "generic_30ab30f330d030fc30d030fc5f7371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "カンバーバー",
+      "equipmentCategory": "カンバーバー",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "cambered_bar_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930a430b930d030fc5f62656e6368",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スイスバー",
+      "equipmentCategory": "スイスバー",
+      "movementType": [
+        "bench"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "swiss_bar_bench_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d530a130c330c830b030ea30c330d75f6375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ファットグリップ",
+      "equipmentCategory": "ファットグリップ",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "fat_grip_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930ec30c330c95f736c6564",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スレッド",
+      "equipmentCategory": "スレッド",
+      "movementType": [
+        "sled"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "sled_push"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d530a130fc30de30fc30ba30cf30f330c930eb5f6361727279",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ファーマーズハンドル",
+      "equipmentCategory": "ファーマーズハンドル",
+      "movementType": [
+        "carry"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "farmers_walk"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130c830eb30d930eb5f7377696e67",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケトルベル",
+      "equipmentCategory": "ケトルベル",
+      "movementType": [
+        "swing"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "kettlebell_swing"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130c830eb30d930eb5f7371756174",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケトルベル",
+      "equipmentCategory": "ケトルベル",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "kettlebell_goblet_squat"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b130c830eb30d930eb5f6f766572686561645072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ケトルベル",
+      "equipmentCategory": "ケトルベル",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "kettlebell_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d030fc30d930eb5f686970546872757374",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "バーベル",
+      "equipmentCategory": "バーベル",
+      "movementType": [
+        "hipThrust"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "barbell_hip_thrust"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f70756c6c7570",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "pullup"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "pullup"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f646970",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "dip"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dip"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f6f766572686561645072657373",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dumbbell_shoulder_press"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f70756c6c6f766572",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "pullover"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dumbbell_pullover"
+      ]
+    },
+    {
+      "equipmentId": "generic_30c030f330d930eb5f6f76657268656164457874656e73696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ダンベル",
+      "equipmentCategory": "ダンベル",
+      "movementType": [
+        "overheadExtension"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "dumbbell_overhead_extension"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f63617264696f5f77616c6b696e67",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "cardio_walking"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_walking"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f77616c6b696e67",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "cardio_treadmill_walking"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_treadmill_walking"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f63617264696f5f6a6f6767696e67",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "cardio_jogging"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_jogging"
+      ]
+    },
+    {
+      "equipmentId": "generic_81ea91cd5f63617264696f5f72756e6e696e67",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "自重",
+      "equipmentCategory": "自重",
+      "movementType": [
+        "cardio_running"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_running"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f72756e6e696e67",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "cardio_treadmill_running"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_treadmill_running"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63617264696f5f73746174696f6e6172795f62696b65",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "cardio_stationary_bike"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63617264696f5f63726f73735f747261696e6572",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "cardio_cross_trainer"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_cross_trainer"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63617264696f5f73746169725f636c696d626572",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "cardio_stair_climber"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_stair_climber"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f63617264696f5f726f77696e675f6d616368696e65",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "cardio_rowing_machine"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_rowing_machine"
+      ]
+    },
+    {
+      "equipmentId": "generic_305d306e4ed65f63617264696f5f6a756d705f726f7065",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "その他",
+      "equipmentCategory": "その他",
+      "movementType": [
+        "cardio_jump_rope"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_jump_rope"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f726f746174696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "rotation"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "rotary_torso"
+      ]
+    },
+    {
+      "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f70756c6c646f776e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "プレートロード",
+      "equipmentCategory": "プレートロード",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "plate_loaded_lat_pulldown"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f726f77",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_seated_row"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6375726c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_biceps_curl"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f70757368646f776e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "pushdown"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_triceps_extension"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f6c61746572616c5261697365",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_lateral_raise"
+      ]
+    },
+    {
+      "equipmentId": "generic_30de30b730f35f686970457874656e73696f6e",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "マシン",
+      "equipmentCategory": "マシン",
+      "movementType": [
+        "hipExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "machine_glute_extension"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930ec30c330c95f736c656450756c6c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スレッド",
+      "equipmentCategory": "スレッド",
+      "movementType": [
+        "sledPull"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "sled_pull"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930ec30c330c95f736c656444726167",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スレッド",
+      "equipmentCategory": "スレッド",
+      "movementType": [
+        "sledDrag"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "backward_sled_drag"
+      ]
+    },
+    {
+      "equipmentId": "generic_30ed30fc30d730c830ec30fc30ca30fc5f726f706550756c6c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ロープトレーナー",
+      "equipmentCategory": "ロープトレーナー",
+      "movementType": [
+        "ropePull"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": null,
+      "exerciseIds": [
+        "rope_pull"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スキーエルゴ",
+      "equipmentCategory": "スキーエルゴ",
+      "movementType": [
+        "ski"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_ski_erg"
+      ]
+    },
+    {
+      "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69416c7465726e617465",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "スキーエルゴ",
+      "equipmentCategory": "スキーエルゴ",
+      "movementType": [
+        "skiAlternate"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_ski_alternating"
+      ]
+    },
+    {
+      "equipmentId": "generic_30e930c630e930eb30a830ea30d730c630a330ab30eb5f6c61746572616c456c6c6970746963616c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "ラテラルエリプティカル",
+      "equipmentCategory": "ラテラルエリプティカル",
+      "movementType": [
+        "lateralElliptical"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_lateral_elliptical"
+      ]
+    },
+    {
+      "equipmentId": "generic_30ea30ab30f330d930f330c830a830ea30d730c630a330ab30eb5f726563756d62656e74456c6c6970746963616c",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "リカンベントエリプティカル",
+      "equipmentCategory": "リカンベントエリプティカル",
+      "movementType": [
+        "recumbentElliptical"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_recumbent_elliptical"
+      ]
+    },
+    {
+      "equipmentId": "generic_30a830a230d030a430af5f61697242696b65",
+      "brand": "Generic",
+      "series": "",
+      "modelName": "エアバイク",
+      "equipmentCategory": "エアバイク",
+      "movementType": [
+        "airBike"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "unspecified",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": null,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": null,
+      "exerciseIds": [
+        "cardio_air_bike"
+      ]
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_bench_press",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Bench Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "iso_lateral_chest_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_incline_press",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Incline Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_incline_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_decline_chest_press",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Decline Chest Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_decline_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_shoulder_press",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Shoulder Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_shoulder_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_high_row",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral High Row",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "high_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_low_row",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Low Row",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "iso_lateral_low_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_d_y_row",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral D.Y. Row",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "dy_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_front_lat_pulldown",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Front Lat Pulldown",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_wide_pulldown",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Wide Pulldown",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_t_bar_row",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "T-Bar Row",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "machine_t_bar_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_hack_squat",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Hack Squat",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "hack_squat"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_linear_leg_press",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Linear Leg Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "legPress"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "leg_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_pendulum_x_squat",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Pendulum-X Squat",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "pendulum_squat"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_belt_squat",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Belt Squat",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "belt_squat"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_glute_drive",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Glute Drive",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "hipThrust"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "glute_drive"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_pullover",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Pullover",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "pullover"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "machine_pullover"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_leg_extension",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Leg Extension",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "leg_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_iso_lateral_leg_curl",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Iso-Lateral Leg Curl",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "lyingCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": true,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "lying_leg_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_seated_calf_raise",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Seated Calf Raise",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "seatedCalf"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "seated_calf_raise"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "hammer_strength_plate_loaded_plate_loaded_seated_dip",
+      "brand": "Hammer Strength",
+      "series": "Plate Loaded",
+      "modelName": "Plate Loaded Seated Dip",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "dip"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "seated_dip"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_chest_press",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Chest Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "multi_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_lat_pulldown",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Lat Pulldown",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_shoulder_press",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Shoulder Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "shoulder_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_leg_extension",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Leg Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "leg_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_seated_leg_curl",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Seated Leg Curl",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "leg_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_glute",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Glute",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "hipExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "machine_glute_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_insignia_glute_bridge",
+      "brand": "Life Fitness",
+      "series": "Insignia",
+      "modelName": "Glute Bridge",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "hipThrust"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+      "exerciseIds": [
+        "machine_hip_thrust"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_signature_plate_loaded_row",
+      "brand": "Life Fitness",
+      "series": "Signature",
+      "modelName": "Plate Loaded Row",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "iso_lateral_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_signature_smith_machine",
+      "brand": "Life Fitness",
+      "series": "Signature",
+      "modelName": "Smith Machine",
+      "equipmentCategory": "smith",
+      "movementType": [
+        "bench",
+        "incline",
+        "squat",
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "胸",
+        "脚",
+        "肩"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+      "exerciseIds": [
+        "smith_bench_press",
+        "smith_incline_bench_press",
+        "smith_squat",
+        "smith_shoulder_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_cable_motion_dual_adjustable_pulley",
+      "brand": "Life Fitness",
+      "series": "Cable Motion",
+      "modelName": "Dual Adjustable Pulley",
+      "equipmentCategory": "cable",
+      "movementType": [
+        "pecFly",
+        "row",
+        "curl",
+        "pushdown",
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "胸",
+        "背中",
+        "腕",
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": true,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/cable-machines-functional-trainers",
+      "exerciseIds": [
+        "cable_chest_fly",
+        "cable_high_to_low_fly",
+        "cable_low_to_high_fly",
+        "one_arm_cable_row",
+        "cable_biceps_curl",
+        "triceps_pushdown",
+        "rope_triceps_pushdown",
+        "cable_lateral_raise"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_signature_olympic_squat_rack",
+      "brand": "Life Fitness",
+      "series": "Signature",
+      "modelName": "Olympic Squat Rack",
+      "equipmentCategory": "rack",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "externalWeights",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/benches",
+      "exerciseIds": [
+        "squat",
+        "front_squat"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "life_fitness_signature_multi_adjustable_bench",
+      "brand": "Life Fitness",
+      "series": "Signature",
+      "modelName": "Multi-Adjustable Bench",
+      "equipmentCategory": "bench",
+      "movementType": [
+        "bench",
+        "incline",
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "胸",
+        "肩"
+      ],
+      "resistanceType": "externalWeights",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/benches",
+      "exerciseIds": [
+        "dumbbell_press",
+        "incline_dumbbell_bench_press",
+        "dumbbell_shoulder_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_converging_chest_press",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Converging Chest Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "multi_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_diverging_lat_pulldown",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Diverging Lat Pulldown",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_diverging_seated_row",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Diverging Seated Row",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "machine_seated_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_converging_shoulder_press",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Converging Shoulder Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "shoulder_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_biceps_curl",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Biceps Curl",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "machine_biceps_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_triceps_extension",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Triceps Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pushdown"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "machine_triceps_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_leg_extension",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Leg Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "leg_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_seated_leg_curl",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Seated Leg Curl",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "leg_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_leg_press",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Leg Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legPress"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "leg_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_resolute_glute_extension",
+      "brand": "Precor",
+      "series": "Resolute",
+      "modelName": "Glute Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "hipExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+      "exerciseIds": [
+        "machine_glute_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_vitality_chest_press",
+      "brand": "Precor",
+      "series": "Vitality",
+      "modelName": "Chest Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/vitality",
+      "exerciseIds": [
+        "multi_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_vitality_leg_extension_leg_curl",
+      "brand": "Precor",
+      "series": "Vitality",
+      "modelName": "Leg Extension / Leg Curl",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legExtension",
+        "legCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/vitality",
+      "exerciseIds": [
+        "leg_extension",
+        "leg_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_vitality_pec_fly_rear_delt",
+      "brand": "Precor",
+      "series": "Vitality",
+      "modelName": "Pec Fly / Rear Delt",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pecFly",
+        "reverseFly"
+      ],
+      "bodyParts": [
+        "胸",
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/selectorized/vitality",
+      "exerciseIds": [
+        "pec_fly",
+        "rear_delt_machine_fly"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_discovery_chest_press",
+      "brand": "Precor",
+      "series": "Discovery",
+      "modelName": "Chest Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_chest_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_discovery_incline_press",
+      "brand": "Precor",
+      "series": "Discovery",
+      "modelName": "Incline Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/plate-loaded",
+      "exerciseIds": [
+        "plate_loaded_incline_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_discovery_seated_row",
+      "brand": "Precor",
+      "series": "Discovery",
+      "modelName": "Seated Row",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/plate-loaded",
+      "exerciseIds": [
+        "iso_lateral_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_glutebuilder_hip_thrust_elite",
+      "brand": "Precor",
+      "series": "Glutebuilder",
+      "modelName": "Hip Thrust Elite",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "hipThrust"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+      "exerciseIds": [
+        "machine_hip_thrust"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_glutebuilder_3d_multi_abductor",
+      "brand": "Precor",
+      "series": "Glutebuilder",
+      "modelName": "3D Multi-Abductor",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "abduction"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+      "exerciseIds": [
+        "outer_thigh"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_glutebuilder_dual_45_hip_extension",
+      "brand": "Precor",
+      "series": "Glutebuilder",
+      "modelName": "Dual 45 Hip Extension",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "backExtension"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+      "exerciseIds": [
+        "back_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_glutebuilder_pendulum_kickback",
+      "brand": "Precor",
+      "series": "Glutebuilder",
+      "modelName": "Pendulum Kickback",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "hipExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+      "exerciseIds": [
+        "machine_glute_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_glutebuilder_kneeling_glute_isolator",
+      "brand": "Precor",
+      "series": "Glutebuilder",
+      "modelName": "Kneeling Glute Isolator",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "hipExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+      "exerciseIds": [
+        "machine_glute_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_glutebuilder_3d_multi_abductor_pro",
+      "brand": "Precor",
+      "series": "Glutebuilder",
+      "modelName": "3D Multi-Abductor Pro",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "abduction"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://files.precor.com/en-US/strength/glutebuilder/selectorized",
+      "exerciseIds": [
+        "outer_thigh"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_cable_stations_dual_adjustable_pulley",
+      "brand": "Precor",
+      "series": "Cable Stations",
+      "modelName": "Dual Adjustable Pulley",
+      "equipmentCategory": "cable",
+      "movementType": [
+        "pecFly",
+        "row",
+        "curl",
+        "pushdown",
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "胸",
+        "背中",
+        "腕",
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": true,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/cable-stations/dual-adjustable-pulley",
+      "exerciseIds": [
+        "cable_chest_fly",
+        "cable_high_to_low_fly",
+        "cable_low_to_high_fly",
+        "one_arm_cable_row",
+        "cable_biceps_curl",
+        "triceps_pushdown",
+        "rope_triceps_pushdown",
+        "cable_lateral_raise"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_cable_stations_fts_glide",
+      "brand": "Precor",
+      "series": "Cable Stations",
+      "modelName": "FTS Glide",
+      "equipmentCategory": "cable",
+      "movementType": [
+        "pecFly",
+        "row",
+        "curl",
+        "pushdown",
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "胸",
+        "背中",
+        "腕",
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/cable-stations/fts-glide",
+      "exerciseIds": [
+        "cable_chest_fly",
+        "cable_high_to_low_fly",
+        "cable_low_to_high_fly",
+        "one_arm_cable_row",
+        "cable_biceps_curl",
+        "triceps_pushdown",
+        "rope_triceps_pushdown",
+        "cable_lateral_raise"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_discovery_smith_machine",
+      "brand": "Precor",
+      "series": "Discovery",
+      "modelName": "Smith Machine",
+      "equipmentCategory": "smith",
+      "movementType": [
+        "bench",
+        "squat"
+      ],
+      "bodyParts": [
+        "胸",
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/benches-and-racks",
+      "exerciseIds": [
+        "smith_bench_press",
+        "smith_squat"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "precor_discovery_multi_adjustable_bench",
+      "brand": "Precor",
+      "series": "Discovery",
+      "modelName": "Multi-Adjustable Bench",
+      "equipmentCategory": "bench",
+      "movementType": [
+        "bench",
+        "incline"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "externalWeights",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.precor.com/en-US/strength/benches-and-racks",
+      "exerciseIds": [
+        "dumbbell_press",
+        "incline_dumbbell_bench_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_converging_chest_press",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Converging Chest Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "multi_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_diverging_lat_pulldown",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Diverging Lat Pulldown",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_diverging_seated_row",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Diverging Seated Row",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "row"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "machine_seated_row"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_converging_shoulder_press",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Converging Shoulder Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "overheadPress"
+      ],
+      "bodyParts": [
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "shoulder_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_independent_biceps_curl",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Independent Biceps Curl",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "curl"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "machine_biceps_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_triceps_extension",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Triceps Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pushdown"
+      ],
+      "bodyParts": [
+        "腕"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "machine_triceps_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_abdominal_crunch",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Abdominal Crunch",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "crunch"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "abdominal"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_rotary_torso",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Rotary Torso",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "rotation"
+      ],
+      "bodyParts": [
+        "腹筋"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "rotary_torso"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_leg_press",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Leg Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legPress"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "leg_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_leg_extension",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Leg Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "leg_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_seated_leg_curl",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Seated Leg Curl",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legCurl"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "leg_curl"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_hip_abductor",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Hip Abductor",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "abduction"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "outer_thigh"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_ultra_glute",
+      "brand": "MATRIX",
+      "series": "Ultra",
+      "modelName": "Glute",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "hipExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+      "exerciseIds": [
+        "machine_glute_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_versa_converging_chest_press",
+      "brand": "MATRIX",
+      "series": "Versa",
+      "modelName": "Converging Chest Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=versa",
+      "exerciseIds": [
+        "multi_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_versa_diverging_lat_pulldown",
+      "brand": "MATRIX",
+      "series": "Versa",
+      "modelName": "Diverging Lat Pulldown",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=versa",
+      "exerciseIds": [
+        "lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_versa_leg_extension",
+      "brand": "MATRIX",
+      "series": "Versa",
+      "modelName": "Leg Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=versa",
+      "exerciseIds": [
+        "leg_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_aura_chest_press",
+      "brand": "MATRIX",
+      "series": "Aura",
+      "modelName": "Chest Press",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=aura",
+      "exerciseIds": [
+        "multi_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_aura_lat_pulldown",
+      "brand": "MATRIX",
+      "series": "Aura",
+      "modelName": "Lat Pulldown",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "pulldown"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=aura",
+      "exerciseIds": [
+        "lat_pulldown"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_aura_leg_extension",
+      "brand": "MATRIX",
+      "series": "Aura",
+      "modelName": "Leg Extension",
+      "equipmentCategory": "selectorized",
+      "movementType": [
+        "legExtension"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=aura",
+      "exerciseIds": [
+        "leg_extension"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_magnum_incline_press",
+      "brand": "MATRIX",
+      "series": "Magnum",
+      "modelName": "Incline Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "chestPress"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+      "exerciseIds": [
+        "plate_loaded_incline_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_magnum_hack_squat",
+      "brand": "MATRIX",
+      "series": "Magnum",
+      "modelName": "Hack Squat",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "squat"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+      "exerciseIds": [
+        "hack_squat"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_magnum_45_degree_leg_press",
+      "brand": "MATRIX",
+      "series": "Magnum",
+      "modelName": "45-Degree Leg Press",
+      "equipmentCategory": "plateLoaded",
+      "movementType": [
+        "legPress"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+      "exerciseIds": [
+        "leg_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_magnum_smith_machine",
+      "brand": "MATRIX",
+      "series": "Magnum",
+      "modelName": "Smith Machine",
+      "equipmentCategory": "smith",
+      "movementType": [
+        "squat",
+        "bench"
+      ],
+      "bodyParts": [
+        "脚",
+        "胸"
+      ],
+      "resistanceType": "plates",
+      "unilateralSupported": null,
+      "plateLoaded": true,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+      "exerciseIds": [
+        "smith_squat",
+        "smith_bench_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_magnum_mega_power_rack",
+      "brand": "MATRIX",
+      "series": "Magnum",
+      "modelName": "MEGA Power Rack",
+      "equipmentCategory": "rack",
+      "movementType": [
+        "squat",
+        "bench"
+      ],
+      "bodyParts": [
+        "脚",
+        "胸"
+      ],
+      "resistanceType": "externalWeights",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+      "exerciseIds": [
+        "squat",
+        "bench_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "matrix_connexus_functional_trainer",
+      "brand": "MATRIX",
+      "series": "Connexus",
+      "modelName": "Functional Trainer",
+      "equipmentCategory": "cable",
+      "movementType": [
+        "pecFly",
+        "row",
+        "curl",
+        "pushdown",
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "胸",
+        "背中",
+        "腕",
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": "https://us.matrixfitness.com/eng/group-training/strength-flexibility/connexus-functional-trainer",
+      "exerciseIds": [
+        "cable_chest_fly",
+        "cable_high_to_low_fly",
+        "cable_low_to_high_fly",
+        "one_arm_cable_row",
+        "cable_biceps_curl",
+        "triceps_pushdown",
+        "rope_triceps_pushdown",
+        "cable_lateral_raise"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "concept2_erg_rowerg",
+      "brand": "Concept2",
+      "series": "Erg",
+      "modelName": "RowErg",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "rowing"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://www.concept2.com/ergs/rowerg",
+      "exerciseIds": [
+        "cardio_rowing_machine"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "concept2_erg_skierg",
+      "brand": "Concept2",
+      "series": "Erg",
+      "modelName": "SkiErg",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "doublePole",
+        "alternatingPole"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": true,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://www.concept2.com/ergs/skierg",
+      "exerciseIds": [
+        "cardio_ski_erg",
+        "cardio_ski_alternating"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "concept2_erg_bikeerg",
+      "brand": "Concept2",
+      "series": "Erg",
+      "modelName": "BikeErg",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://www.concept2.com/ergs/bikeerg",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "concept2_erg_strengtherg",
+      "brand": "Concept2",
+      "series": "Erg",
+      "modelName": "StrengthErg",
+      "equipmentCategory": "strengthErg",
+      "movementType": [
+        "chestPress",
+        "row",
+        "legPress"
+      ],
+      "bodyParts": [
+        "胸",
+        "背中",
+        "脚"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.concept2.com/ergs/strengtherg",
+      "exerciseIds": [
+        "multi_press",
+        "machine_seated_row",
+        "leg_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_atom",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "Atom",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "electromagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://wattbike.com/pages/comparison",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "listed",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_atomx",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "AtomX",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "electromagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://wattbike.com/pages/comparison",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "listed",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_pro",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "Pro",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "airMagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://support.wattbike.com/what-are-the-differences-between-the-wattbikes-comparison-guide-2477312",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "legacy",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_trainer",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "Trainer",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "airMagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://support.wattbike.com/what-are-the-differences-between-the-wattbikes-comparison-guide-2477312",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "legacy",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_air_pro",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "Air-Pro",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://wattbike.com/pages/comparison",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "listed",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_nucleus",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "Nucleus",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "airMagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://support.wattbike.com/what-are-the-differences-between-the-wattbikes-comparison-guide-2477312",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "legacy",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "wattbike_indoor_cycle_proton",
+      "brand": "Wattbike",
+      "series": "Indoor Cycle",
+      "modelName": "Proton",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cycling"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "electromagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://wattbike.com/pages/comparison",
+      "exerciseIds": [
+        "cardio_stationary_bike"
+      ],
+      "verifiedOn": "2026-09-13",
+      "status": "listed",
+      "metricCapabilities": [
+        "minutes",
+        "distanceKm",
+        "averageWatts",
+        "maxWatts",
+        "cadenceRpm",
+        "heartRate",
+        "calories"
+      ]
+    },
+    {
+      "equipmentId": "octane_fitness_commercial_xt_one",
+      "brand": "Octane Fitness",
+      "series": "Commercial",
+      "modelName": "XT-One",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "standingElliptical"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://octanefitness.com/",
+      "exerciseIds": [
+        "cardio_cross_trainer"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "octane_fitness_commercial_lateralx",
+      "brand": "Octane Fitness",
+      "series": "Commercial",
+      "modelName": "LateralX",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "lateralElliptical"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://octanefitness.com/",
+      "exerciseIds": [
+        "cardio_lateral_elliptical"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "octane_fitness_commercial_xride_xr6000s",
+      "brand": "Octane Fitness",
+      "series": "Commercial",
+      "modelName": "xRide XR6000S",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "recumbentElliptical"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://octanefitness.com/",
+      "exerciseIds": [
+        "cardio_recumbent_elliptical"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "octane_fitness_commercial_octane_r",
+      "brand": "Octane Fitness",
+      "series": "Commercial",
+      "modelName": "Octane Rō",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "rowing"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "airMagnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://octanefitness.com/",
+      "exerciseIds": [
+        "cardio_rowing_machine"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "octane_fitness_commercial_adx_bike",
+      "brand": "Octane Fitness",
+      "series": "Commercial",
+      "modelName": "ADX Bike",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "airBike"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://octanefitness.com/",
+      "exerciseIds": [
+        "cardio_air_bike"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_tank_tank_m1s",
+      "brand": "Torque Fitness",
+      "series": "TANK",
+      "modelName": "TANK M1S",
+      "equipmentCategory": "sled",
+      "movementType": [
+        "sled",
+        "sledPull",
+        "sledDrag"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "sled_push",
+        "sled_pull",
+        "backward_sled_drag"
+      ],
+      "verifiedOn": "2026-09-13",
+      "accessoriesRequired": {
+        "sled_pull": "Tow Rope / V-Strap",
+        "backward_sled_drag": "V-Strap / Harness"
+      }
+    },
+    {
+      "equipmentId": "torque_fitness_tank_tank_m3",
+      "brand": "Torque Fitness",
+      "series": "TANK",
+      "modelName": "TANK M3",
+      "equipmentCategory": "sled",
+      "movementType": [
+        "sled",
+        "sledPull",
+        "sledDrag"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "sled_push",
+        "sled_pull",
+        "backward_sled_drag"
+      ],
+      "verifiedOn": "2026-09-13",
+      "accessoriesRequired": {
+        "sled_pull": "Tow Rope / V-Strap",
+        "backward_sled_drag": "V-Strap / Harness"
+      }
+    },
+    {
+      "equipmentId": "torque_fitness_tank_tank_m4",
+      "brand": "Torque Fitness",
+      "series": "TANK",
+      "modelName": "TANK M4",
+      "equipmentCategory": "sled",
+      "movementType": [
+        "sled",
+        "sledPull",
+        "sledDrag"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "sled_push",
+        "sled_pull",
+        "backward_sled_drag"
+      ],
+      "verifiedOn": "2026-09-13",
+      "accessoriesRequired": {
+        "sled_pull": "Tow Rope / V-Strap",
+        "backward_sled_drag": "V-Strap / Harness"
+      }
+    },
+    {
+      "equipmentId": "torque_fitness_tank_tank_mx",
+      "brand": "Torque Fitness",
+      "series": "TANK",
+      "modelName": "TANK MX",
+      "equipmentCategory": "sled",
+      "movementType": [
+        "sled",
+        "sledPull",
+        "sledDrag"
+      ],
+      "bodyParts": [
+        "脚"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "sled_push",
+        "sled_pull",
+        "backward_sled_drag"
+      ],
+      "verifiedOn": "2026-09-13",
+      "accessoriesRequired": {
+        "sled_pull": "Tow Rope / V-Strap",
+        "backward_sled_drag": "V-Strap / Harness"
+      }
+    },
+    {
+      "equipmentId": "torque_fitness_tank_tow_rope",
+      "brand": "Torque Fitness",
+      "series": "TANK",
+      "modelName": "Tow Rope",
+      "equipmentCategory": "accessory",
+      "movementType": [
+        "ropePull"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "sledResistance",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/products/tank-tow-rope/",
+      "exerciseIds": [
+        "rope_pull"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_relentless_rope",
+      "brand": "Torque Fitness",
+      "series": "Relentless",
+      "modelName": "Rope",
+      "equipmentCategory": "rope",
+      "movementType": [
+        "ropePull"
+      ],
+      "bodyParts": [
+        "背中"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "rope_pull"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_relentless_ripper_pro",
+      "brand": "Torque Fitness",
+      "series": "Relentless",
+      "modelName": "Ripper PRO",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "ski"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "magnetic",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "cardio_ski_erg"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_stealth_air_rower",
+      "brand": "Torque Fitness",
+      "series": "Stealth",
+      "modelName": "Air Rower",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "cardio_rowing_machine"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "cardio_rowing_machine"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_stealth_air_bike",
+      "brand": "Torque Fitness",
+      "series": "Stealth",
+      "modelName": "Air Bike",
+      "equipmentCategory": "cardio",
+      "movementType": [
+        "airBike"
+      ],
+      "bodyParts": [
+        "有酸素"
+      ],
+      "resistanceType": "air",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": true,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "cardio_air_bike"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_x_gym_power_rack",
+      "brand": "Torque Fitness",
+      "series": "X-GYM",
+      "modelName": "Power Rack",
+      "equipmentCategory": "rack",
+      "movementType": [
+        "squat",
+        "bench",
+        "pullup"
+      ],
+      "bodyParts": [
+        "脚",
+        "胸",
+        "背中"
+      ],
+      "resistanceType": "externalWeights",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "squat",
+        "bench_press",
+        "pullup"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_x_gym_flat_incline_bench",
+      "brand": "Torque Fitness",
+      "series": "X-GYM",
+      "modelName": "Flat-Incline Bench",
+      "equipmentCategory": "bench",
+      "movementType": [
+        "bench",
+        "incline"
+      ],
+      "bodyParts": [
+        "胸"
+      ],
+      "resistanceType": "externalWeights",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": false,
+      "cableBased": false,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "dumbbell_press",
+        "incline_dumbbell_bench_press"
+      ],
+      "verifiedOn": "2026-09-13"
+    },
+    {
+      "equipmentId": "torque_fitness_f9_free_standing_functional_trainer",
+      "brand": "Torque Fitness",
+      "series": "F9",
+      "modelName": "Free-Standing Functional Trainer",
+      "equipmentCategory": "cable",
+      "movementType": [
+        "pecFly",
+        "row",
+        "curl",
+        "pushdown",
+        "lateralRaise"
+      ],
+      "bodyParts": [
+        "胸",
+        "背中",
+        "腕",
+        "肩"
+      ],
+      "resistanceType": "weightStack",
+      "unilateralSupported": null,
+      "plateLoaded": false,
+      "selectorized": true,
+      "cableBased": true,
+      "cardio": false,
+      "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+      "exerciseIds": [
+        "cable_chest_fly",
+        "cable_high_to_low_fly",
+        "cable_low_to_high_fly",
+        "one_arm_cable_row",
+        "cable_biceps_curl",
+        "triceps_pushdown",
+        "rope_triceps_pushdown",
+        "cable_lateral_raise"
+      ],
+      "verifiedOn": "2026-09-13"
+    }
+  ]
+}

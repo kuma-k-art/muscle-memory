@@ -1,0 +1,4207 @@
+[
+  {
+    "id": "bench_press",
+    "name": "ベンチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "bench",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": "motion_bench_press",
+    "visualId": "motion_bench_press",
+    "motionId": "bench_press",
+    "equipmentId": "generic_30d030fc30d930eb5f62656e6368",
+    "posture": "bench",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "bench",
+    "model": "bench_press",
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "incline_bench_press",
+    "name": "インクラインベンチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "incline",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": "incline_bench_press",
+    "visualId": "incline_bench_press",
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f696e636c696e65",
+    "posture": "incline",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "incline",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "dumbbell_press",
+    "name": "ダンベルプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "bench",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": "dumbbell_press",
+    "visualId": "dumbbell_press",
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f62656e6368",
+    "posture": "bench",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "bench",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "dumbbell_fly",
+    "name": "ダンベルフライ",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "fly",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "delts"
+    ],
+    "aliases": [],
+    "asset": "dumbbell_fly",
+    "visualId": "dumbbell_fly",
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f666c79",
+    "posture": "fly",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "fly",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "delts"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "pec_fly",
+    "name": "ペックフライ",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pecFly",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "delts"
+    ],
+    "aliases": [],
+    "asset": "pec_fly",
+    "visualId": "pec_fly",
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f706563466c79",
+    "posture": "pecFly",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pecFly",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "delts"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "multi_press",
+    "name": "マルチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "chestPress",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63686573745072657373",
+    "posture": "chestPress",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "chestPress",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "deadlift",
+    "name": "デッドリフト",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hinge",
+    "primary": [
+      "erectors",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "quads"
+    ],
+    "aliases": [],
+    "asset": "motion_deadlift",
+    "visualId": "motion_deadlift",
+    "motionId": "deadlift",
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hinge",
+    "model": "deadlift",
+    "mainTarget": [
+      "erectors",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "quads"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "ラットプルダウン",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pulldown",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "motion_lat_pulldown",
+    "visualId": "motion_lat_pulldown",
+    "motionId": "lat_pulldown",
+    "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "posture": "pulldown",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pulldown",
+    "model": "lat_pulldown",
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "seated_row",
+    "name": "シーテッドロー",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "motion_seated_row",
+    "visualId": "motion_seated_row",
+    "motionId": "seated_row",
+    "equipmentId": "generic_30b130fc30d630eb5f726f77",
+    "posture": "row",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "row",
+    "model": "seated_row",
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "one_hand_row",
+    "name": "ワンハンドロー",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "singleRow",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "one_hand_row",
+    "visualId": "one_hand_row",
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f73696e676c65526f77",
+    "posture": "singleRow",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "singleRow",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "back_extension",
+    "name": "バックエクステンション",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ベンチ",
+    "pattern": "backExtension",
+    "primary": [
+      "erectors"
+    ],
+    "secondary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "aliases": [],
+    "asset": "back_extension",
+    "visualId": "back_extension",
+    "motionId": null,
+    "equipmentId": "generic_30d930f330c15f6261636b457874656e73696f6e",
+    "posture": "backExtension",
+    "renderedEquipment": "ベンチ",
+    "renderedMovement": "backExtension",
+    "model": null,
+    "mainTarget": [
+      "erectors"
+    ],
+    "secondaryTargets": [
+      "glutes",
+      "hamstrings"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "shoulder_press",
+    "name": "ショルダープレス",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "overheadPress",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": "motion_shoulder_press",
+    "visualId": "motion_shoulder_press",
+    "motionId": "shoulder_press",
+    "equipmentId": "generic_30de30b730f35f6f766572686561645072657373",
+    "posture": "overheadPress",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "overheadPress",
+    "model": "shoulder_press",
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "side_raise",
+    "name": "サイドレイズ",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "lateralRaise",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "upperBack"
+    ],
+    "aliases": [],
+    "asset": "motion_side_raise",
+    "visualId": "motion_side_raise",
+    "motionId": "side_raise",
+    "equipmentId": "generic_30c030f330d930eb5f6c61746572616c5261697365",
+    "posture": "lateralRaise",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "lateralRaise",
+    "model": "side_raise",
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "upperBack"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "front_raise",
+    "name": "フロントレイズ",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "frontRaise",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "chest"
+    ],
+    "aliases": [],
+    "asset": "front_raise",
+    "visualId": "front_raise",
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f66726f6e745261697365",
+    "posture": "frontRaise",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "frontRaise",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "chest"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "rear_raise",
+    "name": "リアレイズ",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "reverseFly",
+    "primary": [
+      "rearDelts"
+    ],
+    "secondary": [
+      "upperBack"
+    ],
+    "aliases": [],
+    "asset": "rear_raise",
+    "visualId": "rear_raise",
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f72657665727365466c79",
+    "posture": "reverseFly",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "reverseFly",
+    "model": null,
+    "mainTarget": [
+      "rearDelts"
+    ],
+    "secondaryTargets": [
+      "upperBack"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "barbell_curl",
+    "name": "バーベルカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [
+      "アームカール"
+    ],
+    "asset": "barbell_curl",
+    "visualId": "barbell_curl",
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "dumbbell_curl",
+    "name": "ダンベルカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": "motion_dumbbell_curl",
+    "visualId": "motion_dumbbell_curl",
+    "motionId": "dumbbell_curl",
+    "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "curl",
+    "model": "dumbbell_curl",
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "hammer_curl",
+    "name": "ハンマーカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": "hammer_curl",
+    "visualId": "hammer_curl",
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "triceps_pushdown",
+    "name": "トライセプスプッシュダウン",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "pushdown",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": "motion_triceps_pushdown",
+    "visualId": "motion_triceps_pushdown",
+    "motionId": "triceps_pushdown",
+    "equipmentId": "generic_30b130fc30d630eb5f70757368646f776e",
+    "posture": "pushdown",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "pushdown",
+    "model": "triceps_pushdown",
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "skull_crusher",
+    "name": "スカルクラッシャー",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "skullCrusher",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f736b756c6c43727573686572",
+    "posture": "skullCrusher",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "skullCrusher",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "squat",
+    "name": "スクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": "motion_squat",
+    "visualId": "motion_squat",
+    "motionId": "squat",
+    "equipmentId": "generic_30d030fc30d930eb5f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "squat",
+    "model": "squat",
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "leg_press",
+    "name": "レッグプレス",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "legPress",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": "motion_leg_press",
+    "visualId": "motion_leg_press",
+    "motionId": "leg_press",
+    "equipmentId": "generic_30de30b730f35f6c65675072657373",
+    "posture": "legPress",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "legPress",
+    "model": "leg_press",
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "leg_extension",
+    "name": "レッグエクステンション",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "legExtension",
+    "primary": [
+      "quads"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": "motion_leg_extension",
+    "visualId": "motion_leg_extension",
+    "motionId": "leg_extension",
+    "equipmentId": "generic_30de30b730f35f6c6567457874656e73696f6e",
+    "posture": "legExtension",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "legExtension",
+    "model": "leg_extension",
+    "mainTarget": [
+      "quads"
+    ],
+    "secondaryTargets": [],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "leg_curl",
+    "name": "レッグカール",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "legCurl",
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ],
+    "aliases": [],
+    "asset": "motion_leg_curl",
+    "visualId": "motion_leg_curl",
+    "motionId": "leg_curl",
+    "equipmentId": "generic_30de30b730f35f6c65674375726c",
+    "posture": "legCurl",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "legCurl",
+    "model": "leg_curl",
+    "mainTarget": [
+      "hamstrings"
+    ],
+    "secondaryTargets": [
+      "calves"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "inner_thigh",
+    "name": "インナーサイ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "adduction",
+    "primary": [
+      "adductors"
+    ],
+    "secondary": [],
+    "aliases": [
+      "アダクション",
+      "ヒップアダクション"
+    ],
+    "asset": "inner_thigh",
+    "visualId": "inner_thigh",
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f616464756374696f6e",
+    "posture": "adduction",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "adduction",
+    "model": null,
+    "mainTarget": [
+      "adductors"
+    ],
+    "secondaryTargets": [],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "outer_thigh",
+    "name": "アウターサイ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "abduction",
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "glutes"
+    ],
+    "aliases": [
+      "アブダクション",
+      "ヒップアブダクション"
+    ],
+    "asset": "outer_thigh",
+    "visualId": "outer_thigh",
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f616264756374696f6e",
+    "posture": "abduction",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "abduction",
+    "model": null,
+    "mainTarget": [
+      "abductors"
+    ],
+    "secondaryTargets": [
+      "glutes"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "calf_raise",
+    "name": "カーフレイズ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "calf",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "aliases": [
+      "スタンディングカーフ",
+      "スタンディングカーフレイズ"
+    ],
+    "asset": "calf_raise",
+    "visualId": "calf_raise",
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63616c66",
+    "posture": "calf",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "calf",
+    "model": null,
+    "mainTarget": [
+      "calves"
+    ],
+    "secondaryTargets": [],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "crunch",
+    "name": "クランチ",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "crunch",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": "crunch",
+    "visualId": "crunch",
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f6372756e6368",
+    "posture": "crunch",
+    "renderedEquipment": "自重",
+    "renderedMovement": "crunch",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "abdominal",
+    "name": "アブドミナル",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "crunch",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f6372756e6368",
+    "posture": "crunch",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "crunch",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "leg_raise",
+    "name": "レッグレイズ",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "legRaise",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": "leg_raise",
+    "visualId": "leg_raise",
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "posture": "legRaise",
+    "renderedEquipment": "自重",
+    "renderedMovement": "legRaise",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "plank",
+    "name": "プランク",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "plank",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "delts"
+    ],
+    "aliases": [],
+    "asset": "plank",
+    "visualId": "plank",
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f706c616e6b",
+    "posture": "plank",
+    "renderedEquipment": "自重",
+    "renderedMovement": "plank",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [
+      "delts"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "incline_dumbbell_bench_press",
+    "name": "インクラインダンベルベンチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "incline",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f696e636c696e65",
+    "posture": "incline",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "incline",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "smith_bench_press",
+    "name": "スミスマシンベンチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "bench",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f62656e6368",
+    "posture": "bench",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "bench",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "smith_incline_bench_press",
+    "name": "スミスマシンインクラインベンチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "incline",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f696e636c696e65",
+    "posture": "incline",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "incline",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "iso_lateral_chest_press",
+    "name": "アイソラテラルチェストプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "chestPress",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "posture": "chestPress",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "chestPress",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_incline_chest_press",
+    "name": "インクラインチェストプレス（マシン）",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "chestPress",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63686573745072657373",
+    "posture": "chestPress",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "chestPress",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_chest_fly",
+    "name": "ケーブルチェストフライ",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "pecFly",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "delts"
+    ],
+    "aliases": [
+      "ケーブルクロスオーバー",
+      "ケーブルフライ",
+      "中間"
+    ],
+    "asset": "cable_chest_fly",
+    "visualId": "cable_chest_fly",
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "posture": "pecFly",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "pecFly",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "delts"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "wide_grip_lat_pulldown",
+    "name": "ワイドグリップラットプルダウン",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pulldown",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "posture": "pulldown",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pulldown",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "narrow_grip_lat_pulldown",
+    "name": "ナローグリップラットプルダウン",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pulldown",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "posture": "pulldown",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pulldown",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "iso_lateral_row",
+    "name": "アイソラテラルロウ（マシン）",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [
+      "アイソラテラルロウ",
+      "アイソラテラルロー"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "posture": "row",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "iso_lateral_low_row",
+    "name": "アイソラテラルローロウ（マシン）",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [
+      "ローロウ",
+      "ローロー"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "posture": "row",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "one_arm_cable_row",
+    "name": "ワンアームケーブルロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f726f77",
+    "posture": "row",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "straight_arm_lat_pulldown",
+    "name": "ストレートアームラットプルダウン",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "straightArm",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [
+      "ストレートアームプルダウン"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f737472616967687441726d",
+    "posture": "straightArm",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "straightArm",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "smith_squat",
+    "name": "スミスマシンスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": "smith_squat",
+    "visualId": "smith_squat",
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "smith_bulgarian_split_squat",
+    "name": "スミスマシンブルガリアンスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "splitSquat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f73706c69745371756174",
+    "posture": "splitSquat",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "splitSquat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "smith_romanian_deadlift",
+    "name": "スミスマシンルーマニアンデッドリフト",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "hinge",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "smith_calf_raise",
+    "name": "スミスマシンカーフレイズ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "calf",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f63616c66",
+    "posture": "calf",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "calf",
+    "model": null,
+    "mainTarget": [
+      "calves"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "seated_incline_dumbbell_curl",
+    "name": "シーテッドインクラインダンベルカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_biceps_curl",
+    "name": "ケーブルバイセップカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [
+      "ケーブルカール"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "ez_bar_curl",
+    "name": "EZバーカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "EZバー",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [
+      "EZバー"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_455a30d030fc5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "EZバー",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_hammer_curl",
+    "name": "ケーブルハンマーカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "rope_triceps_pushdown",
+    "name": "ロープトライセッププッシュダウン",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "pushdown",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f70757368646f776e",
+    "posture": "pushdown",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "pushdown",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "overhead_cable_triceps_extension",
+    "name": "オーバーヘッドケーブルトライセップエクステンション",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "overheadExtension",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "aliases": [
+      "ケーブルトライセプスエクステンション"
+    ],
+    "asset": "overhead_cable_triceps_extension",
+    "visualId": "overhead_cable_triceps_extension",
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f6f76657268656164457874656e73696f6e",
+    "posture": "overheadExtension",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "overheadExtension",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "smith_close_grip_bench_press",
+    "name": "スミスマシンクローズグリップベンチプレス",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "bench",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f62656e6368",
+    "posture": "bench",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "bench",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [
+      "chest"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "smith_shoulder_press",
+    "name": "スミスマシンショルダープレス",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "スミスマシン",
+    "pattern": "overheadPress",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930df30b930de30b730f35f6f766572686561645072657373",
+    "posture": "overheadPress",
+    "renderedEquipment": "スミスマシン",
+    "renderedMovement": "overheadPress",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_lateral_raise",
+    "name": "ケーブルサイドレイズ",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "lateralRaise",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "upperBack"
+    ],
+    "aliases": [
+      "ケーブルラテラルレイズ"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f6c61746572616c5261697365",
+    "posture": "lateralRaise",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "lateralRaise",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "upperBack"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "face_pull",
+    "name": "フェイスプル",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "reverseFly",
+    "primary": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondary": [
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "face_pull",
+    "visualId": "face_pull",
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f72657665727365466c79",
+    "posture": "reverseFly",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "reverseFly",
+    "model": null,
+    "mainTarget": [
+      "rearDelts",
+      "upperBack"
+    ],
+    "secondaryTargets": [
+      "biceps"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "knee_raise",
+    "name": "ニーレイズ",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "legRaise",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "posture": "legRaise",
+    "renderedEquipment": "自重",
+    "renderedMovement": "legRaise",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "parallel_bar_knee_raise",
+    "name": "パラレルバーニーレイズ",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "legRaise",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "posture": "legRaise",
+    "renderedEquipment": "自重",
+    "renderedMovement": "legRaise",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_crunch",
+    "name": "ケーブルクランチ",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "cableCrunch",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f6361626c654372756e6368",
+    "posture": "cableCrunch",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "cableCrunch",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "hack_squat",
+    "name": "ハックスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": "motion_hack_squat",
+    "visualId": "motion_hack_squat",
+    "motionId": "hack_squat",
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "squat",
+    "model": "hack_squat",
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "v_squat",
+    "name": "Vスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "pendulum_squat",
+    "name": "ペンデュラムスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "belt_squat",
+    "name": "ベルトスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "plate_loaded_chest_press",
+    "name": "プレートロードチェストプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "chestPress",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "posture": "chestPress",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "chestPress",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "plate_loaded_incline_press",
+    "name": "プレートロードインクラインプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "chestPress",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "posture": "chestPress",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "chestPress",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "plate_loaded_shoulder_press",
+    "name": "プレートロードショルダープレス",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "overheadPress",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f6f766572686561645072657373",
+    "posture": "overheadPress",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "overheadPress",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "high_row",
+    "name": "ハイロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "posture": "row",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "chest_supported_row",
+    "name": "チェストサポートロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "posture": "row",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_pullover",
+    "name": "プルオーバーマシン",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pullover",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "chest"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f70756c6c6f766572",
+    "posture": "pullover",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pullover",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "chest"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "assisted_dip",
+    "name": "アシストディップ",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "dip",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f646970",
+    "posture": "dip",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "dip",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "assisted_pullup",
+    "name": "アシストチンニング",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pullup",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f70756c6c7570",
+    "posture": "pullup",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pullup",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_hip_thrust",
+    "name": "ヒップスラストマシン",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "hipThrust",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f686970546872757374",
+    "posture": "hipThrust",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "hipThrust",
+    "model": null,
+    "mainTarget": [
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "glute_drive",
+    "name": "グルートドライブ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "hipThrust",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f686970546872757374",
+    "posture": "hipThrust",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "hipThrust",
+    "model": null,
+    "mainTarget": [
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "seated_calf_raise",
+    "name": "シーテッドカーフレイズ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "seatedCalf",
+    "primary": [
+      "calves"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f73656174656443616c66",
+    "posture": "seatedCalf",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "seatedCalf",
+    "model": null,
+    "mainTarget": [
+      "calves"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "lying_leg_curl",
+    "name": "ライイングレッグカール",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "lyingCurl",
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f6c79696e674375726c",
+    "posture": "lyingCurl",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "lyingCurl",
+    "model": null,
+    "mainTarget": [
+      "hamstrings"
+    ],
+    "secondaryTargets": [
+      "calves"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "rear_delt_machine_fly",
+    "name": "リアデルトフライ（マシン）",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "reverseFly",
+    "primary": [
+      "rearDelts"
+    ],
+    "secondary": [
+      "upperBack"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f72657665727365466c79",
+    "posture": "reverseFly",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "reverseFly",
+    "model": null,
+    "mainTarget": [
+      "rearDelts"
+    ],
+    "secondaryTargets": [
+      "upperBack"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_high_to_low_fly",
+    "name": "ケーブルフライ（上から下）",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "pecFly",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "posture": "pecFly",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "pecFly",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_low_to_high_fly",
+    "name": "ケーブルフライ（下から上）",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "pecFly",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "posture": "pecFly",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "pecFly",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cable_pullover",
+    "name": "ケーブルプルオーバー",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ケーブル",
+    "pattern": "straightArm",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130fc30d630eb5f737472616967687441726d",
+    "posture": "straightArm",
+    "renderedEquipment": "ケーブル",
+    "renderedMovement": "straightArm",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "front_squat",
+    "name": "フロントスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "bulgarian_split_squat",
+    "name": "ブルガリアンスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "splitSquat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": "motion_bulgarian_split_squat",
+    "visualId": "motion_bulgarian_split_squat",
+    "motionId": "bulgarian_split_squat",
+    "equipmentId": "generic_30c030f330d930eb5f73706c69745371756174",
+    "posture": "splitSquat",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "splitSquat",
+    "model": "bulgarian_split_squat",
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "romanian_deadlift",
+    "name": "ルーマニアンデッドリフト",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hinge",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": "romanian_deadlift",
+    "visualId": "romanian_deadlift",
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "erectors"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "stiff_leg_deadlift",
+    "name": "スティッフレッグデッドリフト",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hinge",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "sumo_deadlift",
+    "name": "スモウデッドリフト",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hinge",
+    "primary": [
+      "glutes",
+      "adductors"
+    ],
+    "secondary": [
+      "quads",
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "glutes",
+      "adductors"
+    ],
+    "secondaryTargets": [
+      "quads",
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "t_bar_row",
+    "name": "Tバーロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ランドマイン",
+    "pattern": "bentRow",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "t_bar_row",
+    "visualId": "t_bar_row",
+    "motionId": null,
+    "equipmentId": "generic_30e930f330c930de30a430f35f62656e74526f77",
+    "posture": "bentRow",
+    "renderedEquipment": "ランドマイン",
+    "renderedMovement": "bentRow",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "pendlay_row",
+    "name": "ペンドレイロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "bentRow",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f62656e74526f77",
+    "posture": "bentRow",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "bentRow",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "landmine_press",
+    "name": "ランドマインプレス",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ランドマイン",
+    "pattern": "landminePress",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "triceps",
+      "chest"
+    ],
+    "aliases": [],
+    "asset": "landmine_press",
+    "visualId": "landmine_press",
+    "motionId": null,
+    "equipmentId": "generic_30e930f330c930de30a430f35f6c616e646d696e655072657373",
+    "posture": "landminePress",
+    "renderedEquipment": "ランドマイン",
+    "renderedMovement": "landminePress",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "chest"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "landmine_row",
+    "name": "ランドマインロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ランドマイン",
+    "pattern": "bentRow",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30e930f330c930de30a430f35f62656e74526f77",
+    "posture": "bentRow",
+    "renderedEquipment": "ランドマイン",
+    "renderedMovement": "bentRow",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "snatch_grip_deadlift",
+    "name": "スナッチグリップデッドリフト",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hinge",
+    "primary": [
+      "erectors",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "quads"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "erectors",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "quads"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "good_morning",
+    "name": "グッドモーニング",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hinge",
+    "primary": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondary": [
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "hamstrings",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "safety_bar_squat",
+    "name": "セーフティスクワットバースクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "セーフティスクワットバー",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30bb30fc30d530c630a330b930af30ef30c330c830d030fc5f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "セーフティスクワットバー",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "trap_bar_deadlift",
+    "name": "トラップバーデッドリフト",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "トラップバー",
+    "pattern": "hinge",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "erectors"
+    ],
+    "aliases": [
+      "トラップバー",
+      "ヘックスバー"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30c830e930c330d730d030fc5f68696e6765",
+    "posture": "hinge",
+    "renderedEquipment": "トラップバー",
+    "renderedMovement": "hinge",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cambered_bar_squat",
+    "name": "カンバーバースクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "カンバーバー",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [
+      "カンバー付きバー"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30ab30f330d030fc30d030fc5f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "カンバーバー",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "swiss_bar_bench_press",
+    "name": "スイスバーベンチプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "スイスバー",
+    "pattern": "bench",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930a430b930d030fc5f62656e6368",
+    "posture": "bench",
+    "renderedEquipment": "スイスバー",
+    "renderedMovement": "bench",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "fat_grip_curl",
+    "name": "ファットグリップカール",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ファットグリップ",
+    "pattern": "curl",
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d530a130c330c830b030ea30c330d75f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "ファットグリップ",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps",
+      "forearms"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "sled_push",
+    "name": "スレッドプッシュ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スレッド",
+    "pattern": "sled",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "calves"
+    ],
+    "aliases": [],
+    "asset": "motion_sled_push",
+    "visualId": "motion_sled_push",
+    "motionId": "sled_push",
+    "equipmentId": "generic_30b930ec30c330c95f736c6564",
+    "posture": "sled",
+    "renderedEquipment": "スレッド",
+    "renderedMovement": "sled",
+    "model": "sled",
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "calves"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "farmers_walk",
+    "name": "ファーマーズウォーク",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "ファーマーズハンドル",
+    "pattern": "carry",
+    "primary": [
+      "forearms",
+      "upperBack"
+    ],
+    "secondary": [
+      "abs",
+      "glutes"
+    ],
+    "aliases": [
+      "ファーマーズウォークハンドル"
+    ],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d530a130fc30de30fc30ba30cf30f330c930eb5f6361727279",
+    "posture": "carry",
+    "renderedEquipment": "ファーマーズハンドル",
+    "renderedMovement": "carry",
+    "model": null,
+    "mainTarget": [
+      "forearms",
+      "upperBack"
+    ],
+    "secondaryTargets": [
+      "abs",
+      "glutes"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "kettlebell_swing",
+    "name": "ケトルベルスイング",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "ケトルベル",
+    "pattern": "swing",
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130c830eb30d930eb5f7377696e67",
+    "posture": "swing",
+    "renderedEquipment": "ケトルベル",
+    "renderedMovement": "swing",
+    "model": null,
+    "mainTarget": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondaryTargets": [
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "kettlebell_goblet_squat",
+    "name": "ケトルベルゴブレットスクワット",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "ケトルベル",
+    "pattern": "squat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130c830eb30d930eb5f7371756174",
+    "posture": "squat",
+    "renderedEquipment": "ケトルベル",
+    "renderedMovement": "squat",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "kettlebell_press",
+    "name": "ケトルベルプレス",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ケトルベル",
+    "pattern": "overheadPress",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b130c830eb30d930eb5f6f766572686561645072657373",
+    "posture": "overheadPress",
+    "renderedEquipment": "ケトルベル",
+    "renderedMovement": "overheadPress",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "barbell_hip_thrust",
+    "name": "バーベルヒップスラスト",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "hipThrust",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ],
+    "aliases": [],
+    "asset": "barbell_hip_thrust",
+    "visualId": "barbell_hip_thrust",
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f686970546872757374",
+    "posture": "hipThrust",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "hipThrust",
+    "model": null,
+    "mainTarget": [
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "pullup",
+    "name": "チンニング",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "pullup",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "pullup",
+    "visualId": "pullup",
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f70756c6c7570",
+    "posture": "pullup",
+    "renderedEquipment": "自重",
+    "renderedMovement": "pullup",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "dip",
+    "name": "ディップス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "自重",
+    "pattern": "dip",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": "dip",
+    "visualId": "dip",
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f646970",
+    "posture": "dip",
+    "renderedEquipment": "自重",
+    "renderedMovement": "dip",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "existing-authored-static"
+  },
+  {
+    "id": "barbell_bent_over_row",
+    "name": "ベントオーバーロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "バーベル",
+    "pattern": "bentRow",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "erectors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d030fc30d930eb5f62656e74526f77",
+    "posture": "bentRow",
+    "renderedEquipment": "バーベル",
+    "renderedMovement": "bentRow",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "erectors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "dumbbell_shoulder_press",
+    "name": "ダンベルショルダープレス",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "overheadPress",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "triceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f6f766572686561645072657373",
+    "posture": "overheadPress",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "overheadPress",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "triceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "dumbbell_pullover",
+    "name": "ダンベルプルオーバー",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "pullover",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "lats"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f70756c6c6f766572",
+    "posture": "pullover",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "pullover",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "lats"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "dumbbell_overhead_extension",
+    "name": "ダンベルオーバーヘッドトライセプスエクステンション",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "overheadExtension",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30c030f330d930eb5f6f76657268656164457874656e73696f6e",
+    "posture": "overheadExtension",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "overheadExtension",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "rotary_torso",
+    "name": "ロータリートーソ",
+    "bodyPart": "腹筋",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "rotation",
+    "primary": [
+      "abs"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f726f746174696f6e",
+    "posture": "rotation",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "rotation",
+    "model": null,
+    "mainTarget": [
+      "abs"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "dy_row",
+    "name": "D.Y.ロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "posture": "row",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "biceps",
+      "upperBack"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "plate_loaded_decline_press",
+    "name": "プレートロードデクラインプレス",
+    "bodyPart": "胸",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "chestPress",
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "triceps",
+      "delts"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "posture": "chestPress",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "chestPress",
+    "model": null,
+    "mainTarget": [
+      "chest"
+    ],
+    "secondaryTargets": [
+      "triceps",
+      "delts"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "plate_loaded_lat_pulldown",
+    "name": "プレートロードラットプルダウン",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "pulldown",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "upperBack"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f70756c6c646f776e",
+    "posture": "pulldown",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "pulldown",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "biceps",
+      "upperBack"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_t_bar_row",
+    "name": "チェストサポートTバーロウ",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "プレートロード",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "posture": "row",
+    "renderedEquipment": "プレートロード",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_seated_row",
+    "name": "シーテッドロー（マシン）",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "row",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upperBack",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f726f77",
+    "posture": "row",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "row",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "upperBack",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_biceps_curl",
+    "name": "アームカール（マシン）",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f6375726c",
+    "posture": "curl",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "curl",
+    "model": null,
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_triceps_extension",
+    "name": "トライセプスエクステンション（マシン）",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "pushdown",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f70757368646f776e",
+    "posture": "pushdown",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "pushdown",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_lateral_raise",
+    "name": "ラテラルレイズ（マシン）",
+    "bodyPart": "肩",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "lateralRaise",
+    "primary": [
+      "delts"
+    ],
+    "secondary": [
+      "upperBack"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f6c61746572616c5261697365",
+    "posture": "lateralRaise",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "lateralRaise",
+    "model": null,
+    "mainTarget": [
+      "delts"
+    ],
+    "secondaryTargets": [
+      "upperBack"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "machine_glute_extension",
+    "name": "グルートエクステンション",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "hipExtension",
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f686970457874656e73696f6e",
+    "posture": "hipExtension",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "hipExtension",
+    "model": null,
+    "mainTarget": [
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "seated_dip",
+    "name": "シーテッドディップ（マシン）",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "マシン",
+    "pattern": "dip",
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f646970",
+    "posture": "dip",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "dip",
+    "model": null,
+    "mainTarget": [
+      "triceps"
+    ],
+    "secondaryTargets": [
+      "chest"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "sled_pull",
+    "name": "スレッドプル",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スレッド",
+    "pattern": "sledPull",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "lats",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930ec30c330c95f736c656450756c6c",
+    "posture": "sledPull",
+    "renderedEquipment": "スレッド",
+    "renderedMovement": "sledPull",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "lats",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "backward_sled_drag",
+    "name": "バックワードスレッドドラッグ",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "スレッド",
+    "pattern": "sledDrag",
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "calves"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930ec30c330c95f736c656444726167",
+    "posture": "sledDrag",
+    "renderedEquipment": "スレッド",
+    "renderedMovement": "sledDrag",
+    "model": null,
+    "mainTarget": [
+      "quads"
+    ],
+    "secondaryTargets": [
+      "glutes",
+      "calves"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "rope_pull",
+    "name": "ローププル",
+    "bodyPart": "背中",
+    "isCustom": false,
+    "equipment": "ロープトレーナー",
+    "pattern": "ropePull",
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30ed30fc30d730c830ec30fc30ca30fc5f726f706550756c6c",
+    "posture": "ropePull",
+    "renderedEquipment": "ロープトレーナー",
+    "renderedMovement": "ropePull",
+    "model": null,
+    "mainTarget": [
+      "lats"
+    ],
+    "secondaryTargets": [
+      "biceps",
+      "forearms"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_walking",
+    "name": "ウォーキング",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "自重",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f63617264696f5f77616c6b696e67",
+    "posture": null,
+    "renderedEquipment": "自重",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_treadmill_walking",
+    "name": "トレッドミルウォーキング",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "マシン",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f77616c6b696e67",
+    "posture": null,
+    "renderedEquipment": "マシン",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_jogging",
+    "name": "ジョギング",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "自重",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f63617264696f5f6a6f6767696e67",
+    "posture": null,
+    "renderedEquipment": "自重",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_running",
+    "name": "ランニング",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "自重",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_81ea91cd5f63617264696f5f72756e6e696e67",
+    "posture": null,
+    "renderedEquipment": "自重",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_treadmill_running",
+    "name": "トレッドミルランニング",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "マシン",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f72756e6e696e67",
+    "posture": null,
+    "renderedEquipment": "マシン",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_stationary_bike",
+    "name": "エアロバイク",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "マシン",
+    "pattern": "cycling",
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "calves"
+    ],
+    "aliases": [],
+    "asset": "motion_cardio_stationary_bike",
+    "visualId": "motion_cardio_stationary_bike",
+    "motionId": "cardio_stationary_bike",
+    "equipmentId": "generic_30de30b730f35f63617264696f5f73746174696f6e6172795f62696b65",
+    "posture": "cycling",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "cycling",
+    "model": "bikeerg",
+    "mainTarget": [
+      "quads"
+    ],
+    "secondaryTargets": [
+      "glutes",
+      "calves"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "cardio_cross_trainer",
+    "name": "クロストレーナー",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "マシン",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63617264696f5f63726f73735f747261696e6572",
+    "posture": null,
+    "renderedEquipment": "マシン",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_stair_climber",
+    "name": "ステアクライマー",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "マシン",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30de30b730f35f63617264696f5f73746169725f636c696d626572",
+    "posture": null,
+    "renderedEquipment": "マシン",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_rowing_machine",
+    "name": "ローイングマシン",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "マシン",
+    "pattern": "rowing",
+    "primary": [
+      "quads",
+      "lats"
+    ],
+    "secondary": [
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": "motion_cardio_rowing_machine",
+    "visualId": "motion_cardio_rowing_machine",
+    "motionId": "cardio_rowing_machine",
+    "equipmentId": "generic_30de30b730f35f63617264696f5f726f77696e675f6d616368696e65",
+    "posture": "rowing",
+    "renderedEquipment": "マシン",
+    "renderedMovement": "rowing",
+    "model": "rowerg",
+    "mainTarget": [
+      "quads",
+      "lats"
+    ],
+    "secondaryTargets": [
+      "biceps"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "cardio_jump_rope",
+    "name": "縄跳び",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "その他",
+    "pattern": null,
+    "primary": [],
+    "secondary": [],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_305d306e4ed65f63617264696f5f6a756d705f726f7065",
+    "posture": null,
+    "renderedEquipment": "その他",
+    "renderedMovement": null,
+    "model": null,
+    "mainTarget": [],
+    "secondaryTargets": [],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_ski_erg",
+    "name": "スキーエルゴ（ダブルポール）",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "スキーエルゴ",
+    "pattern": "ski",
+    "primary": [
+      "lats",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "glutes"
+    ],
+    "aliases": [],
+    "asset": "motion_cardio_ski_erg",
+    "visualId": "motion_cardio_ski_erg",
+    "motionId": "cardio_ski_erg",
+    "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69",
+    "posture": "ski",
+    "renderedEquipment": "スキーエルゴ",
+    "renderedMovement": "ski",
+    "model": "skierg",
+    "mainTarget": [
+      "lats",
+      "triceps"
+    ],
+    "secondaryTargets": [
+      "abs",
+      "glutes"
+    ],
+    "provenance": "original-procedural-glb-v1"
+  },
+  {
+    "id": "cardio_ski_alternating",
+    "name": "スキーエルゴ（交互）",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "スキーエルゴ",
+    "pattern": "skiAlternate",
+    "primary": [
+      "lats",
+      "triceps"
+    ],
+    "secondary": [
+      "abs"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69416c7465726e617465",
+    "posture": "skiAlternate",
+    "renderedEquipment": "スキーエルゴ",
+    "renderedMovement": "skiAlternate",
+    "model": null,
+    "mainTarget": [
+      "lats",
+      "triceps"
+    ],
+    "secondaryTargets": [
+      "abs"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_lateral_elliptical",
+    "name": "ラテラルエリプティカル",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "ラテラルエリプティカル",
+    "pattern": "lateralElliptical",
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30e930c630e930eb30a830ea30d730c630a330ab30eb5f6c61746572616c456c6c6970746963616c",
+    "posture": "lateralElliptical",
+    "renderedEquipment": "ラテラルエリプティカル",
+    "renderedMovement": "lateralElliptical",
+    "model": null,
+    "mainTarget": [
+      "glutes",
+      "quads"
+    ],
+    "secondaryTargets": [
+      "abductors"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_recumbent_elliptical",
+    "name": "リカンベントエリプティカル",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "リカンベントエリプティカル",
+    "pattern": "recumbentElliptical",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30ea30ab30f330d930f330c830a830ea30d730c630a330ab30eb5f726563756d62656e74456c6c6970746963616c",
+    "posture": "recumbentElliptical",
+    "renderedEquipment": "リカンベントエリプティカル",
+    "renderedMovement": "recumbentElliptical",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings"
+    ],
+    "provenance": "equipment-icon"
+  },
+  {
+    "id": "cardio_air_bike",
+    "name": "エアバイク（全身）",
+    "bodyPart": "有酸素",
+    "isCustom": false,
+    "type": "cardio",
+    "equipment": "エアバイク",
+    "pattern": "airBike",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "delts",
+      "biceps"
+    ],
+    "aliases": [],
+    "asset": null,
+    "visualId": null,
+    "motionId": null,
+    "equipmentId": "generic_30a830a230d030a430af5f61697242696b65",
+    "posture": "airBike",
+    "renderedEquipment": "エアバイク",
+    "renderedMovement": "airBike",
+    "model": null,
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "delts",
+      "biceps"
+    ],
+    "provenance": "equipment-icon"
+  }
+]
