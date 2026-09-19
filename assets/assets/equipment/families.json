@@ -1,0 +1,3337 @@
+[
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f62656e6368",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "flat_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f696e636c696e65",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "barbell_incline"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f62656e6368",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f666c79",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f706563466c79",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "pec_fly"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63686573745072657373",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "barbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f726f77",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "seated_cable_row"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f73696e676c65526f77",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_row_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d930f330c15f6261636b457874656e73696f6e",
+    "brand": "Generic",
+    "modelName": "ベンチ",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6f766572686561645072657373",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "shoulder_press"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f6c61746572616c5261697365",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f66726f6e745261697365",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f72657665727365466c79",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f6375726c",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "barbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell",
+      "dumbbell_incline",
+      "dumbbell_preacher"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f70757368646f776e",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f736b756c6c43727573686572",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "flat_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f7371756174",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "barbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6c65675072657373",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "leg_press"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6c6567457874656e73696f6e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6c65674375726c",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f616464756374696f6e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "hip_adduction"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f616264756374696f6e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "hip_abduction"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63616c66",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "calf_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f6372756e6368",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6372756e6368",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f706c616e6b",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f696e636c696e65",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_incline"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f62656e6368",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [
+      "smith_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f696e636c696e65",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [
+      "smith_incline"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "plate_chest_press"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "functional_trainer"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "plate_machine_row"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f737472616967687441726d",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f7371756174",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [
+      "smith_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f73706c69745371756174",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f68696e6765",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [
+      "smith_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f63616c66",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [
+      "smith_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f6375726c",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_455a30d030fc5f6375726c",
+    "brand": "Generic",
+    "modelName": "EZバー",
+    "families": [
+      "ez_bar"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f6f76657268656164457874656e73696f6e",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930df30b930de30b730f35f6f766572686561645072657373",
+    "brand": "Generic",
+    "modelName": "スミスマシン",
+    "families": [
+      "smith_seated"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f6c61746572616c5261697365",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f72657665727365466c79",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130fc30d630eb5f6361626c654372756e6368",
+    "brand": "Generic",
+    "modelName": "ケーブル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "hack_squat"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f6f766572686561645072657373",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "plate_shoulder_press"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f70756c6c6f766572",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "pullover_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f646970",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "seated_dip"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f70756c6c7570",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f686970546872757374",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "hip_thrust"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f686970546872757374",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "plate_hip_thrust"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f73656174656443616c66",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "seated_calf"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6c79696e674375726c",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "lying_leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f72657665727365466c79",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "rear_delt"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f73706c69745371756174",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_split_bench",
+      "dumbbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30e930f330c930de30a430f35f62656e74526f77",
+    "brand": "Generic",
+    "modelName": "ランドマイン",
+    "families": [
+      "landmine_row"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f62656e74526f77",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "barbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30e930f330c930de30a430f35f6c616e646d696e655072657373",
+    "brand": "Generic",
+    "modelName": "ランドマイン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30bb30fc30d530c630a330b930af30ef30c330c830d030fc5f7371756174",
+    "brand": "Generic",
+    "modelName": "セーフティスクワットバー",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c830e930c330d730d030fc5f68696e6765",
+    "brand": "Generic",
+    "modelName": "トラップバー",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30ab30f330d030fc30d030fc5f7371756174",
+    "brand": "Generic",
+    "modelName": "カンバーバー",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930a430b930d030fc5f62656e6368",
+    "brand": "Generic",
+    "modelName": "スイスバー",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d530a130c330c830b030ea30c330d75f6375726c",
+    "brand": "Generic",
+    "modelName": "ファットグリップ",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930ec30c330c95f736c6564",
+    "brand": "Generic",
+    "modelName": "スレッド",
+    "families": [
+      "sled"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d530a130fc30de30fc30ba30cf30f330c930eb5f6361727279",
+    "brand": "Generic",
+    "modelName": "ファーマーズハンドル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130c830eb30d930eb5f7377696e67",
+    "brand": "Generic",
+    "modelName": "ケトルベル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130c830eb30d930eb5f7371756174",
+    "brand": "Generic",
+    "modelName": "ケトルベル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b130c830eb30d930eb5f6f766572686561645072657373",
+    "brand": "Generic",
+    "modelName": "ケトルベル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d030fc30d930eb5f686970546872757374",
+    "brand": "Generic",
+    "modelName": "バーベル",
+    "families": [
+      "barbell_hip_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f70756c6c7570",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [
+      "pullup_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f646970",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [
+      "dip_station"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f6f766572686561645072657373",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_seated"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f70756c6c6f766572",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell_bench"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30c030f330d930eb5f6f76657268656164457874656e73696f6e",
+    "brand": "Generic",
+    "modelName": "ダンベル",
+    "families": [
+      "dumbbell"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f63617264696f5f77616c6b696e67",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f77616c6b696e67",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f63617264696f5f6a6f6767696e67",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_81ea91cd5f63617264696f5f72756e6e696e67",
+    "brand": "Generic",
+    "modelName": "自重",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f72756e6e696e67",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63617264696f5f73746174696f6e6172795f62696b65",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63617264696f5f63726f73735f747261696e6572",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63617264696f5f73746169725f636c696d626572",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f63617264696f5f726f77696e675f6d616368696e65",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "rower"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_305d306e4ed65f63617264696f5f6a756d705f726f7065",
+    "brand": "Generic",
+    "modelName": "その他",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f726f746174696f6e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f70756c6c646f776e",
+    "brand": "Generic",
+    "modelName": "プレートロード",
+    "families": [
+      "plate_lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": true,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f726f77",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "machine_row"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6375726c",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "preacher_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f70757368646f776e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "triceps_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f6c61746572616c5261697365",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [
+      "lateral_raise_machine"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30de30b730f35f686970457874656e73696f6e",
+    "brand": "Generic",
+    "modelName": "マシン",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930ec30c330c95f736c656450756c6c",
+    "brand": "Generic",
+    "modelName": "スレッド",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930ec30c330c95f736c656444726167",
+    "brand": "Generic",
+    "modelName": "スレッド",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30ed30fc30d730c830ec30fc30ca30fc5f726f706550756c6c",
+    "brand": "Generic",
+    "modelName": "ロープトレーナー",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69",
+    "brand": "Generic",
+    "modelName": "スキーエルゴ",
+    "families": [
+      "ski_erg"
+    ],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69416c7465726e617465",
+    "brand": "Generic",
+    "modelName": "スキーエルゴ",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30e930c630e930eb30a830ea30d730c630a330ab30eb5f6c61746572616c456c6c6970746963616c",
+    "brand": "Generic",
+    "modelName": "ラテラルエリプティカル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30ea30ab30f330d930f330c830a830ea30d730c630a330ab30eb5f726563756d62656e74456c6c6970746963616c",
+    "brand": "Generic",
+    "modelName": "リカンベントエリプティカル",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "generic_30a830a230d030a430af5f61697242696b65",
+    "brand": "Generic",
+    "modelName": "エアバイク",
+    "families": [],
+    "variant": {
+      "resistanceType": "unspecified",
+      "plateLoaded": false,
+      "selectorized": null,
+      "unilateralSupported": null
+    },
+    "officialReference": null,
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_bench_press",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Bench Press",
+    "families": [
+      "plate_chest_press"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_incline_press",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Incline Press",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_decline_chest_press",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Decline Chest Press",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_shoulder_press",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Shoulder Press",
+    "families": [
+      "plate_shoulder_press"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_high_row",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral High Row",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_low_row",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Low Row",
+    "families": [
+      "plate_machine_row"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_d_y_row",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral D.Y. Row",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_front_lat_pulldown",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Front Lat Pulldown",
+    "families": [
+      "plate_lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_wide_pulldown",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Wide Pulldown",
+    "families": [
+      "plate_lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_t_bar_row",
+    "brand": "Hammer Strength",
+    "modelName": "T-Bar Row",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_hack_squat",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Hack Squat",
+    "families": [
+      "hack_squat"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_linear_leg_press",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Linear Leg Press",
+    "families": [
+      "leg_press"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_pendulum_x_squat",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Pendulum-X Squat",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_belt_squat",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Belt Squat",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_glute_drive",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Glute Drive",
+    "families": [
+      "plate_hip_thrust"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_pullover",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Pullover",
+    "families": [
+      "pullover_machine"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_leg_extension",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Leg Extension",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_iso_lateral_leg_curl",
+    "brand": "Hammer Strength",
+    "modelName": "Iso-Lateral Leg Curl",
+    "families": [
+      "lying_leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_seated_calf_raise",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Seated Calf Raise",
+    "families": [
+      "seated_calf"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "hammer_strength_plate_loaded_plate_loaded_seated_dip",
+    "brand": "Hammer Strength",
+    "modelName": "Plate Loaded Seated Dip",
+    "families": [
+      "seated_dip"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_chest_press",
+    "brand": "Life Fitness",
+    "modelName": "Chest Press",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_lat_pulldown",
+    "brand": "Life Fitness",
+    "modelName": "Lat Pulldown",
+    "families": [
+      "lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_shoulder_press",
+    "brand": "Life Fitness",
+    "modelName": "Shoulder Press",
+    "families": [
+      "shoulder_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_leg_extension",
+    "brand": "Life Fitness",
+    "modelName": "Leg Extension",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_seated_leg_curl",
+    "brand": "Life Fitness",
+    "modelName": "Seated Leg Curl",
+    "families": [
+      "leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_glute",
+    "brand": "Life Fitness",
+    "modelName": "Glute",
+    "families": [],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_insignia_glute_bridge",
+    "brand": "Life Fitness",
+    "modelName": "Glute Bridge",
+    "families": [
+      "hip_thrust"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-gb/catalog/strength-training/selectorized/insignia-series-glute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_signature_plate_loaded_row",
+    "brand": "Life Fitness",
+    "modelName": "Plate Loaded Row",
+    "families": [
+      "plate_machine_row"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_signature_smith_machine",
+    "brand": "Life Fitness",
+    "modelName": "Smith Machine",
+    "families": [
+      "smith_bench",
+      "smith_incline",
+      "smith_machine",
+      "smith_seated"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_cable_motion_dual_adjustable_pulley",
+    "brand": "Life Fitness",
+    "modelName": "Dual Adjustable Pulley",
+    "families": [
+      "functional_trainer",
+      "seated_cable_row",
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/cable-machines-functional-trainers",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_signature_olympic_squat_rack",
+    "brand": "Life Fitness",
+    "modelName": "Olympic Squat Rack",
+    "families": [
+      "barbell"
+    ],
+    "variant": {
+      "resistanceType": "externalWeights",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/benches",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "life_fitness_signature_multi_adjustable_bench",
+    "brand": "Life Fitness",
+    "modelName": "Multi-Adjustable Bench",
+    "families": [
+      "dumbbell_bench",
+      "dumbbell_incline",
+      "dumbbell_seated"
+    ],
+    "variant": {
+      "resistanceType": "externalWeights",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.lifefitness.com/en-us/catalog/strength-training/benches",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_converging_chest_press",
+    "brand": "Precor",
+    "modelName": "Converging Chest Press",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_diverging_lat_pulldown",
+    "brand": "Precor",
+    "modelName": "Diverging Lat Pulldown",
+    "families": [
+      "lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_diverging_seated_row",
+    "brand": "Precor",
+    "modelName": "Diverging Seated Row",
+    "families": [
+      "machine_row"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_converging_shoulder_press",
+    "brand": "Precor",
+    "modelName": "Converging Shoulder Press",
+    "families": [
+      "shoulder_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_biceps_curl",
+    "brand": "Precor",
+    "modelName": "Biceps Curl",
+    "families": [
+      "preacher_machine"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_triceps_extension",
+    "brand": "Precor",
+    "modelName": "Triceps Extension",
+    "families": [
+      "triceps_machine"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_leg_extension",
+    "brand": "Precor",
+    "modelName": "Leg Extension",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_seated_leg_curl",
+    "brand": "Precor",
+    "modelName": "Seated Leg Curl",
+    "families": [
+      "leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_leg_press",
+    "brand": "Precor",
+    "modelName": "Leg Press",
+    "families": [
+      "leg_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_resolute_glute_extension",
+    "brand": "Precor",
+    "modelName": "Glute Extension",
+    "families": [],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/resolute",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_vitality_chest_press",
+    "brand": "Precor",
+    "modelName": "Chest Press",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/vitality",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_vitality_leg_extension_leg_curl",
+    "brand": "Precor",
+    "modelName": "Leg Extension / Leg Curl",
+    "families": [
+      "leg_extension",
+      "leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/vitality",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_vitality_pec_fly_rear_delt",
+    "brand": "Precor",
+    "modelName": "Pec Fly / Rear Delt",
+    "families": [
+      "pec_fly",
+      "rear_delt"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/selectorized/vitality",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_discovery_chest_press",
+    "brand": "Precor",
+    "modelName": "Chest Press",
+    "families": [
+      "plate_chest_press"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_discovery_incline_press",
+    "brand": "Precor",
+    "modelName": "Incline Press",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_discovery_seated_row",
+    "brand": "Precor",
+    "modelName": "Seated Row",
+    "families": [
+      "plate_machine_row"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_glutebuilder_hip_thrust_elite",
+    "brand": "Precor",
+    "modelName": "Hip Thrust Elite",
+    "families": [
+      "hip_thrust"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_glutebuilder_3d_multi_abductor",
+    "brand": "Precor",
+    "modelName": "3D Multi-Abductor",
+    "families": [
+      "hip_abduction"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_glutebuilder_dual_45_hip_extension",
+    "brand": "Precor",
+    "modelName": "Dual 45 Hip Extension",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_glutebuilder_pendulum_kickback",
+    "brand": "Precor",
+    "modelName": "Pendulum Kickback",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_glutebuilder_kneeling_glute_isolator",
+    "brand": "Precor",
+    "modelName": "Kneeling Glute Isolator",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/glutebuilder/plate-loaded",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_glutebuilder_3d_multi_abductor_pro",
+    "brand": "Precor",
+    "modelName": "3D Multi-Abductor Pro",
+    "families": [
+      "hip_abduction"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://files.precor.com/en-US/strength/glutebuilder/selectorized",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_cable_stations_dual_adjustable_pulley",
+    "brand": "Precor",
+    "modelName": "Dual Adjustable Pulley",
+    "families": [
+      "functional_trainer",
+      "seated_cable_row",
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/cable-stations/dual-adjustable-pulley",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_cable_stations_fts_glide",
+    "brand": "Precor",
+    "modelName": "FTS Glide",
+    "families": [
+      "functional_trainer",
+      "seated_cable_row",
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/cable-stations/fts-glide",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_discovery_smith_machine",
+    "brand": "Precor",
+    "modelName": "Smith Machine",
+    "families": [
+      "smith_bench",
+      "smith_machine"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/benches-and-racks",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "precor_discovery_multi_adjustable_bench",
+    "brand": "Precor",
+    "modelName": "Multi-Adjustable Bench",
+    "families": [
+      "dumbbell_bench",
+      "dumbbell_incline"
+    ],
+    "variant": {
+      "resistanceType": "externalWeights",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.precor.com/en-US/strength/benches-and-racks",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_converging_chest_press",
+    "brand": "MATRIX",
+    "modelName": "Converging Chest Press",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_diverging_lat_pulldown",
+    "brand": "MATRIX",
+    "modelName": "Diverging Lat Pulldown",
+    "families": [
+      "lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_diverging_seated_row",
+    "brand": "MATRIX",
+    "modelName": "Diverging Seated Row",
+    "families": [
+      "machine_row"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_converging_shoulder_press",
+    "brand": "MATRIX",
+    "modelName": "Converging Shoulder Press",
+    "families": [
+      "shoulder_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_independent_biceps_curl",
+    "brand": "MATRIX",
+    "modelName": "Independent Biceps Curl",
+    "families": [
+      "preacher_machine"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_triceps_extension",
+    "brand": "MATRIX",
+    "modelName": "Triceps Extension",
+    "families": [
+      "triceps_machine"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_abdominal_crunch",
+    "brand": "MATRIX",
+    "modelName": "Abdominal Crunch",
+    "families": [],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_rotary_torso",
+    "brand": "MATRIX",
+    "modelName": "Rotary Torso",
+    "families": [],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_leg_press",
+    "brand": "MATRIX",
+    "modelName": "Leg Press",
+    "families": [
+      "leg_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_leg_extension",
+    "brand": "MATRIX",
+    "modelName": "Leg Extension",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_seated_leg_curl",
+    "brand": "MATRIX",
+    "modelName": "Seated Leg Curl",
+    "families": [
+      "leg_curl"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_hip_abductor",
+    "brand": "MATRIX",
+    "modelName": "Hip Abductor",
+    "families": [
+      "hip_abduction"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_ultra_glute",
+    "brand": "MATRIX",
+    "modelName": "Glute",
+    "families": [],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=ultra",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_versa_converging_chest_press",
+    "brand": "MATRIX",
+    "modelName": "Converging Chest Press",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=versa",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_versa_diverging_lat_pulldown",
+    "brand": "MATRIX",
+    "modelName": "Diverging Lat Pulldown",
+    "families": [
+      "lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=versa",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_versa_leg_extension",
+    "brand": "MATRIX",
+    "modelName": "Leg Extension",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=versa",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_aura_chest_press",
+    "brand": "MATRIX",
+    "modelName": "Chest Press",
+    "families": [
+      "chest_press"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=aura",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_aura_lat_pulldown",
+    "brand": "MATRIX",
+    "modelName": "Lat Pulldown",
+    "families": [
+      "lat_pulldown"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=aura",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_aura_leg_extension",
+    "brand": "MATRIX",
+    "modelName": "Leg Extension",
+    "families": [
+      "leg_extension"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=aura",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_magnum_incline_press",
+    "brand": "MATRIX",
+    "modelName": "Incline Press",
+    "families": [],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_magnum_hack_squat",
+    "brand": "MATRIX",
+    "modelName": "Hack Squat",
+    "families": [
+      "hack_squat"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_magnum_45_degree_leg_press",
+    "brand": "MATRIX",
+    "modelName": "45-Degree Leg Press",
+    "families": [
+      "leg_press"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_magnum_smith_machine",
+    "brand": "MATRIX",
+    "modelName": "Smith Machine",
+    "families": [
+      "smith_machine",
+      "smith_bench"
+    ],
+    "variant": {
+      "resistanceType": "plates",
+      "plateLoaded": true,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_magnum_mega_power_rack",
+    "brand": "MATRIX",
+    "modelName": "MEGA Power Rack",
+    "families": [
+      "barbell",
+      "flat_bench"
+    ],
+    "variant": {
+      "resistanceType": "externalWeights",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/strength/catalog?series=magnum",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "matrix_connexus_functional_trainer",
+    "brand": "MATRIX",
+    "modelName": "Functional Trainer",
+    "families": [
+      "functional_trainer",
+      "seated_cable_row",
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://us.matrixfitness.com/eng/group-training/strength-flexibility/connexus-functional-trainer",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "concept2_erg_rowerg",
+    "brand": "Concept2",
+    "modelName": "RowErg",
+    "families": [
+      "rower"
+    ],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.concept2.com/ergs/rowerg",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "concept2_erg_skierg",
+    "brand": "Concept2",
+    "modelName": "SkiErg",
+    "families": [
+      "ski_erg"
+    ],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": true
+    },
+    "officialReference": "https://www.concept2.com/ergs/skierg",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "concept2_erg_bikeerg",
+    "brand": "Concept2",
+    "modelName": "BikeErg",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.concept2.com/ergs/bikeerg",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "concept2_erg_strengtherg",
+    "brand": "Concept2",
+    "modelName": "StrengthErg",
+    "families": [
+      "chest_press",
+      "machine_row",
+      "leg_press"
+    ],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.concept2.com/ergs/strengtherg",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_atom",
+    "brand": "Wattbike",
+    "modelName": "Atom",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "electromagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://wattbike.com/pages/comparison",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_atomx",
+    "brand": "Wattbike",
+    "modelName": "AtomX",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "electromagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://wattbike.com/pages/comparison",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_pro",
+    "brand": "Wattbike",
+    "modelName": "Pro",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "airMagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://support.wattbike.com/what-are-the-differences-between-the-wattbikes-comparison-guide-2477312",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_trainer",
+    "brand": "Wattbike",
+    "modelName": "Trainer",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "airMagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://support.wattbike.com/what-are-the-differences-between-the-wattbikes-comparison-guide-2477312",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_air_pro",
+    "brand": "Wattbike",
+    "modelName": "Air-Pro",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://wattbike.com/pages/comparison",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_nucleus",
+    "brand": "Wattbike",
+    "modelName": "Nucleus",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "airMagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://support.wattbike.com/what-are-the-differences-between-the-wattbikes-comparison-guide-2477312",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "wattbike_indoor_cycle_proton",
+    "brand": "Wattbike",
+    "modelName": "Proton",
+    "families": [
+      "bike"
+    ],
+    "variant": {
+      "resistanceType": "electromagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://wattbike.com/pages/comparison",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "octane_fitness_commercial_xt_one",
+    "brand": "Octane Fitness",
+    "modelName": "XT-One",
+    "families": [],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://octanefitness.com/",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "octane_fitness_commercial_lateralx",
+    "brand": "Octane Fitness",
+    "modelName": "LateralX",
+    "families": [],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://octanefitness.com/",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "octane_fitness_commercial_xride_xr6000s",
+    "brand": "Octane Fitness",
+    "modelName": "xRide XR6000S",
+    "families": [],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://octanefitness.com/",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "octane_fitness_commercial_octane_r",
+    "brand": "Octane Fitness",
+    "modelName": "Octane Rō",
+    "families": [
+      "rower"
+    ],
+    "variant": {
+      "resistanceType": "airMagnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://octanefitness.com/",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "octane_fitness_commercial_adx_bike",
+    "brand": "Octane Fitness",
+    "modelName": "ADX Bike",
+    "families": [],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://octanefitness.com/",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_tank_tank_m1s",
+    "brand": "Torque Fitness",
+    "modelName": "TANK M1S",
+    "families": [
+      "sled"
+    ],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_tank_tank_m3",
+    "brand": "Torque Fitness",
+    "modelName": "TANK M3",
+    "families": [
+      "sled"
+    ],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_tank_tank_m4",
+    "brand": "Torque Fitness",
+    "modelName": "TANK M4",
+    "families": [
+      "sled"
+    ],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_tank_tank_mx",
+    "brand": "Torque Fitness",
+    "modelName": "TANK MX",
+    "families": [
+      "sled"
+    ],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_tank_tow_rope",
+    "brand": "Torque Fitness",
+    "modelName": "Tow Rope",
+    "families": [],
+    "variant": {
+      "resistanceType": "sledResistance",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/products/tank-tow-rope/",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_relentless_rope",
+    "brand": "Torque Fitness",
+    "modelName": "Rope",
+    "families": [],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_relentless_ripper_pro",
+    "brand": "Torque Fitness",
+    "modelName": "Ripper PRO",
+    "families": [
+      "ski_erg"
+    ],
+    "variant": {
+      "resistanceType": "magnetic",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_stealth_air_rower",
+    "brand": "Torque Fitness",
+    "modelName": "Air Rower",
+    "families": [
+      "rower"
+    ],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_stealth_air_bike",
+    "brand": "Torque Fitness",
+    "modelName": "Air Bike",
+    "families": [],
+    "variant": {
+      "resistanceType": "air",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_x_gym_power_rack",
+    "brand": "Torque Fitness",
+    "modelName": "Power Rack",
+    "families": [
+      "barbell",
+      "flat_bench",
+      "pullup_station"
+    ],
+    "variant": {
+      "resistanceType": "externalWeights",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_x_gym_flat_incline_bench",
+    "brand": "Torque Fitness",
+    "modelName": "Flat-Incline Bench",
+    "families": [
+      "dumbbell_bench",
+      "dumbbell_incline"
+    ],
+    "variant": {
+      "resistanceType": "externalWeights",
+      "plateLoaded": false,
+      "selectorized": false,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  },
+  {
+    "equipmentId": "torque_fitness_f9_free_standing_functional_trainer",
+    "brand": "Torque Fitness",
+    "modelName": "Free-Standing Functional Trainer",
+    "families": [
+      "functional_trainer",
+      "seated_cable_row",
+      "cable_station"
+    ],
+    "variant": {
+      "resistanceType": "weightStack",
+      "plateLoaded": false,
+      "selectorized": true,
+      "unilateralSupported": null
+    },
+    "officialReference": "https://www.torquefitness.com/pages/assembly-manuals-and-videos",
+    "geometryScope": "generic-family; exact manufacturer dimensions/trajectory not asserted"
+  }
+]

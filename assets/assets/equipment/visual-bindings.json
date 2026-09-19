@@ -18,10 +18,12 @@
     "visualId": "motion_bench_press",
     "motionId": "bench_press",
     "equipmentId": "generic_30d030fc30d930eb5f62656e6368",
+    "equipmentFamily": "flat_bench",
+    "threeDCompatible": true,
     "posture": "bench",
     "renderedEquipment": "バーベル",
     "renderedMovement": "bench",
-    "model": "bench_press",
+    "model": "flat_bench",
     "mainTarget": [
       "chest"
     ],
@@ -29,7 +31,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "incline_bench_press",
@@ -46,14 +48,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": "incline_bench_press",
-    "visualId": "incline_bench_press",
-    "motionId": null,
+    "asset": "motion_incline_bench_press",
+    "visualId": "motion_incline_bench_press",
+    "motionId": "incline_bench_press",
     "equipmentId": "generic_30d030fc30d930eb5f696e636c696e65",
+    "equipmentFamily": "barbell_incline",
+    "threeDCompatible": true,
     "posture": "incline",
     "renderedEquipment": "バーベル",
     "renderedMovement": "incline",
-    "model": null,
+    "model": "barbell_incline",
     "mainTarget": [
       "chest"
     ],
@@ -61,7 +65,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dumbbell_press",
@@ -78,14 +82,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": "dumbbell_press",
-    "visualId": "dumbbell_press",
-    "motionId": null,
+    "asset": "motion_dumbbell_press",
+    "visualId": "motion_dumbbell_press",
+    "motionId": "dumbbell_press",
     "equipmentId": "generic_30c030f330d930eb5f62656e6368",
+    "equipmentFamily": "dumbbell_bench",
+    "threeDCompatible": true,
     "posture": "bench",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "bench",
-    "model": null,
+    "model": "dumbbell_bench",
     "mainTarget": [
       "chest"
     ],
@@ -93,7 +99,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dumbbell_fly",
@@ -109,21 +115,23 @@
       "delts"
     ],
     "aliases": [],
-    "asset": "dumbbell_fly",
-    "visualId": "dumbbell_fly",
-    "motionId": null,
+    "asset": "motion_dumbbell_fly",
+    "visualId": "motion_dumbbell_fly",
+    "motionId": "dumbbell_fly",
     "equipmentId": "generic_30c030f330d930eb5f666c79",
+    "equipmentFamily": "dumbbell_bench",
+    "threeDCompatible": true,
     "posture": "fly",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "fly",
-    "model": null,
+    "model": "dumbbell_bench",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "delts"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "pec_fly",
@@ -139,21 +147,23 @@
       "delts"
     ],
     "aliases": [],
-    "asset": "pec_fly",
-    "visualId": "pec_fly",
-    "motionId": null,
+    "asset": "motion_pec_fly",
+    "visualId": "motion_pec_fly",
+    "motionId": "pec_fly",
     "equipmentId": "generic_30de30b730f35f706563466c79",
+    "equipmentFamily": "pec_fly",
+    "threeDCompatible": true,
     "posture": "pecFly",
     "renderedEquipment": "マシン",
     "renderedMovement": "pecFly",
-    "model": null,
+    "model": "pec_fly",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "delts"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "multi_press",
@@ -170,14 +180,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_multi_press",
+    "visualId": "motion_multi_press",
+    "motionId": "multi_press",
     "equipmentId": "generic_30de30b730f35f63686573745072657373",
+    "equipmentFamily": "chest_press",
+    "threeDCompatible": true,
     "posture": "chestPress",
     "renderedEquipment": "マシン",
     "renderedMovement": "chestPress",
-    "model": null,
+    "model": "chest_press",
     "mainTarget": [
       "chest"
     ],
@@ -185,7 +197,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "deadlift",
@@ -207,10 +219,12 @@
     "visualId": "motion_deadlift",
     "motionId": "deadlift",
     "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hinge",
-    "model": "deadlift",
+    "model": "barbell",
     "mainTarget": [
       "erectors",
       "glutes"
@@ -219,7 +233,7 @@
       "hamstrings",
       "quads"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "lat_pulldown",
@@ -240,6 +254,8 @@
     "visualId": "motion_lat_pulldown",
     "motionId": "lat_pulldown",
     "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "equipmentFamily": "lat_pulldown",
+    "threeDCompatible": true,
     "posture": "pulldown",
     "renderedEquipment": "マシン",
     "renderedMovement": "pulldown",
@@ -251,7 +267,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "seated_row",
@@ -272,10 +288,12 @@
     "visualId": "motion_seated_row",
     "motionId": "seated_row",
     "equipmentId": "generic_30b130fc30d630eb5f726f77",
+    "equipmentFamily": "seated_cable_row",
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "row",
-    "model": "seated_row",
+    "model": "seated_cable_row",
     "mainTarget": [
       "lats"
     ],
@@ -283,7 +301,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "one_hand_row",
@@ -300,14 +318,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": "one_hand_row",
-    "visualId": "one_hand_row",
-    "motionId": null,
+    "asset": "motion_one_hand_row",
+    "visualId": "motion_one_hand_row",
+    "motionId": "one_hand_row",
     "equipmentId": "generic_30c030f330d930eb5f73696e676c65526f77",
+    "equipmentFamily": "dumbbell_row_bench",
+    "threeDCompatible": true,
     "posture": "singleRow",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "singleRow",
-    "model": null,
+    "model": "dumbbell_row_bench",
     "mainTarget": [
       "lats"
     ],
@@ -315,7 +335,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "back_extension",
@@ -332,10 +352,12 @@
       "hamstrings"
     ],
     "aliases": [],
-    "asset": "back_extension",
-    "visualId": "back_extension",
+    "asset": null,
+    "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d930f330c15f6261636b457874656e73696f6e",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "backExtension",
     "renderedEquipment": "ベンチ",
     "renderedMovement": "backExtension",
@@ -347,7 +369,7 @@
       "glutes",
       "hamstrings"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "equipment-icon"
   },
   {
     "id": "shoulder_press",
@@ -367,6 +389,8 @@
     "visualId": "motion_shoulder_press",
     "motionId": "shoulder_press",
     "equipmentId": "generic_30de30b730f35f6f766572686561645072657373",
+    "equipmentFamily": "shoulder_press",
+    "threeDCompatible": true,
     "posture": "overheadPress",
     "renderedEquipment": "マシン",
     "renderedMovement": "overheadPress",
@@ -377,7 +401,7 @@
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "side_raise",
@@ -397,17 +421,19 @@
     "visualId": "motion_side_raise",
     "motionId": "side_raise",
     "equipmentId": "generic_30c030f330d930eb5f6c61746572616c5261697365",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
     "posture": "lateralRaise",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "lateralRaise",
-    "model": "side_raise",
+    "model": "dumbbell",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "upperBack"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "front_raise",
@@ -423,21 +449,23 @@
       "chest"
     ],
     "aliases": [],
-    "asset": "front_raise",
-    "visualId": "front_raise",
-    "motionId": null,
+    "asset": "motion_front_raise",
+    "visualId": "motion_front_raise",
+    "motionId": "front_raise",
     "equipmentId": "generic_30c030f330d930eb5f66726f6e745261697365",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
     "posture": "frontRaise",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "frontRaise",
-    "model": null,
+    "model": "dumbbell",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "chest"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "rear_raise",
@@ -453,21 +481,23 @@
       "upperBack"
     ],
     "aliases": [],
-    "asset": "rear_raise",
-    "visualId": "rear_raise",
-    "motionId": null,
+    "asset": "motion_rear_raise",
+    "visualId": "motion_rear_raise",
+    "motionId": "rear_raise",
     "equipmentId": "generic_30c030f330d930eb5f72657665727365466c79",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
     "posture": "reverseFly",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "reverseFly",
-    "model": null,
+    "model": "dumbbell",
     "mainTarget": [
       "rearDelts"
     ],
     "secondaryTargets": [
       "upperBack"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "barbell_curl",
@@ -485,21 +515,23 @@
     "aliases": [
       "アームカール"
     ],
-    "asset": "barbell_curl",
-    "visualId": "barbell_curl",
-    "motionId": null,
+    "asset": "motion_barbell_curl",
+    "visualId": "motion_barbell_curl",
+    "motionId": "barbell_curl",
     "equipmentId": "generic_30d030fc30d930eb5f6375726c",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "バーベル",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dumbbell_curl",
@@ -519,17 +551,19 @@
     "visualId": "motion_dumbbell_curl",
     "motionId": "dumbbell_curl",
     "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "curl",
-    "model": "dumbbell_curl",
+    "model": "dumbbell",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "hammer_curl",
@@ -545,21 +579,23 @@
       "forearms"
     ],
     "aliases": [],
-    "asset": "hammer_curl",
-    "visualId": "hammer_curl",
-    "motionId": null,
+    "asset": "motion_hammer_curl",
+    "visualId": "motion_hammer_curl",
+    "motionId": "hammer_curl",
     "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "dumbbell",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "triceps_pushdown",
@@ -577,15 +613,17 @@
     "visualId": "motion_triceps_pushdown",
     "motionId": "triceps_pushdown",
     "equipmentId": "generic_30b130fc30d630eb5f70757368646f776e",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "pushdown",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "pushdown",
-    "model": "triceps_pushdown",
+    "model": "cable_station",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "skull_crusher",
@@ -599,19 +637,21 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_skull_crusher",
+    "visualId": "motion_skull_crusher",
+    "motionId": "skull_crusher",
     "equipmentId": "generic_30d030fc30d930eb5f736b756c6c43727573686572",
+    "equipmentFamily": "flat_bench",
+    "threeDCompatible": true,
     "posture": "skullCrusher",
     "renderedEquipment": "バーベル",
     "renderedMovement": "skullCrusher",
-    "model": null,
+    "model": "flat_bench",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "squat",
@@ -633,10 +673,12 @@
     "visualId": "motion_squat",
     "motionId": "squat",
     "equipmentId": "generic_30d030fc30d930eb5f7371756174",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "バーベル",
     "renderedMovement": "squat",
-    "model": "squat",
+    "model": "barbell",
     "mainTarget": [
       "quads",
       "glutes"
@@ -645,7 +687,7 @@
       "hamstrings",
       "abs"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "leg_press",
@@ -667,6 +709,8 @@
     "visualId": "motion_leg_press",
     "motionId": "leg_press",
     "equipmentId": "generic_30de30b730f35f6c65675072657373",
+    "equipmentFamily": "leg_press",
+    "threeDCompatible": true,
     "posture": "legPress",
     "renderedEquipment": "マシン",
     "renderedMovement": "legPress",
@@ -679,7 +723,7 @@
       "hamstrings",
       "abs"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "leg_extension",
@@ -697,6 +741,8 @@
     "visualId": "motion_leg_extension",
     "motionId": "leg_extension",
     "equipmentId": "generic_30de30b730f35f6c6567457874656e73696f6e",
+    "equipmentFamily": "leg_extension",
+    "threeDCompatible": true,
     "posture": "legExtension",
     "renderedEquipment": "マシン",
     "renderedMovement": "legExtension",
@@ -705,7 +751,7 @@
       "quads"
     ],
     "secondaryTargets": [],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "leg_curl",
@@ -725,6 +771,8 @@
     "visualId": "motion_leg_curl",
     "motionId": "leg_curl",
     "equipmentId": "generic_30de30b730f35f6c65674375726c",
+    "equipmentFamily": "leg_curl",
+    "threeDCompatible": true,
     "posture": "legCurl",
     "renderedEquipment": "マシン",
     "renderedMovement": "legCurl",
@@ -735,7 +783,7 @@
     "secondaryTargets": [
       "calves"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "inner_thigh",
@@ -752,19 +800,21 @@
       "アダクション",
       "ヒップアダクション"
     ],
-    "asset": "inner_thigh",
-    "visualId": "inner_thigh",
-    "motionId": null,
+    "asset": "motion_inner_thigh",
+    "visualId": "motion_inner_thigh",
+    "motionId": "inner_thigh",
     "equipmentId": "generic_30de30b730f35f616464756374696f6e",
+    "equipmentFamily": "hip_adduction",
+    "threeDCompatible": true,
     "posture": "adduction",
     "renderedEquipment": "マシン",
     "renderedMovement": "adduction",
-    "model": null,
+    "model": "hip_adduction",
     "mainTarget": [
       "adductors"
     ],
     "secondaryTargets": [],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "outer_thigh",
@@ -783,21 +833,23 @@
       "アブダクション",
       "ヒップアブダクション"
     ],
-    "asset": "outer_thigh",
-    "visualId": "outer_thigh",
-    "motionId": null,
+    "asset": "motion_outer_thigh",
+    "visualId": "motion_outer_thigh",
+    "motionId": "outer_thigh",
     "equipmentId": "generic_30de30b730f35f616264756374696f6e",
+    "equipmentFamily": "hip_abduction",
+    "threeDCompatible": true,
     "posture": "abduction",
     "renderedEquipment": "マシン",
     "renderedMovement": "abduction",
-    "model": null,
+    "model": "hip_abduction",
     "mainTarget": [
       "abductors"
     ],
     "secondaryTargets": [
       "glutes"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "calf_raise",
@@ -814,19 +866,21 @@
       "スタンディングカーフ",
       "スタンディングカーフレイズ"
     ],
-    "asset": "calf_raise",
-    "visualId": "calf_raise",
-    "motionId": null,
+    "asset": "motion_calf_raise",
+    "visualId": "motion_calf_raise",
+    "motionId": "calf_raise",
     "equipmentId": "generic_30de30b730f35f63616c66",
+    "equipmentFamily": "calf_machine",
+    "threeDCompatible": true,
     "posture": "calf",
     "renderedEquipment": "マシン",
     "renderedMovement": "calf",
-    "model": null,
+    "model": "calf_machine",
     "mainTarget": [
       "calves"
     ],
     "secondaryTargets": [],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "crunch",
@@ -840,10 +894,12 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": "crunch",
-    "visualId": "crunch",
+    "asset": null,
+    "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f6372756e6368",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "crunch",
     "renderedEquipment": "自重",
     "renderedMovement": "crunch",
@@ -852,7 +908,7 @@
       "abs"
     ],
     "secondaryTargets": [],
-    "provenance": "existing-authored-static"
+    "provenance": "equipment-icon"
   },
   {
     "id": "abdominal",
@@ -870,6 +926,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f6372756e6368",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "crunch",
     "renderedEquipment": "マシン",
     "renderedMovement": "crunch",
@@ -892,10 +950,12 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": "leg_raise",
-    "visualId": "leg_raise",
+    "asset": null,
+    "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "legRaise",
     "renderedEquipment": "自重",
     "renderedMovement": "legRaise",
@@ -904,7 +964,7 @@
       "abs"
     ],
     "secondaryTargets": [],
-    "provenance": "existing-authored-static"
+    "provenance": "equipment-icon"
   },
   {
     "id": "plank",
@@ -920,10 +980,12 @@
       "delts"
     ],
     "aliases": [],
-    "asset": "plank",
-    "visualId": "plank",
+    "asset": null,
+    "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f706c616e6b",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "plank",
     "renderedEquipment": "自重",
     "renderedMovement": "plank",
@@ -934,7 +996,7 @@
     "secondaryTargets": [
       "delts"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "equipment-icon"
   },
   {
     "id": "incline_dumbbell_bench_press",
@@ -951,14 +1013,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_incline_dumbbell_bench_press",
+    "visualId": "motion_incline_dumbbell_bench_press",
+    "motionId": "incline_dumbbell_bench_press",
     "equipmentId": "generic_30c030f330d930eb5f696e636c696e65",
+    "equipmentFamily": "dumbbell_incline",
+    "threeDCompatible": true,
     "posture": "incline",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "incline",
-    "model": null,
+    "model": "dumbbell_incline",
     "mainTarget": [
       "chest"
     ],
@@ -966,7 +1030,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_bench_press",
@@ -983,14 +1047,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_smith_bench_press",
+    "visualId": "motion_smith_bench_press",
+    "motionId": "smith_bench_press",
     "equipmentId": "generic_30b930df30b930de30b730f35f62656e6368",
+    "equipmentFamily": "smith_bench",
+    "threeDCompatible": true,
     "posture": "bench",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "bench",
-    "model": null,
+    "model": "smith_bench",
     "mainTarget": [
       "chest"
     ],
@@ -998,7 +1064,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_incline_bench_press",
@@ -1015,14 +1081,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_smith_incline_bench_press",
+    "visualId": "motion_smith_incline_bench_press",
+    "motionId": "smith_incline_bench_press",
     "equipmentId": "generic_30b930df30b930de30b730f35f696e636c696e65",
+    "equipmentFamily": "smith_incline",
+    "threeDCompatible": true,
     "posture": "incline",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "incline",
-    "model": null,
+    "model": "smith_incline",
     "mainTarget": [
       "chest"
     ],
@@ -1030,7 +1098,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "iso_lateral_chest_press",
@@ -1047,14 +1115,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_iso_lateral_chest_press",
+    "visualId": "motion_iso_lateral_chest_press",
+    "motionId": "iso_lateral_chest_press",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "equipmentFamily": "plate_chest_press",
+    "threeDCompatible": true,
     "posture": "chestPress",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "chestPress",
-    "model": null,
+    "model": "plate_chest_press",
     "mainTarget": [
       "chest"
     ],
@@ -1062,7 +1132,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "machine_incline_chest_press",
@@ -1083,6 +1153,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f63686573745072657373",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "chestPress",
     "renderedEquipment": "マシン",
     "renderedMovement": "chestPress",
@@ -1114,21 +1186,23 @@
       "ケーブルフライ",
       "中間"
     ],
-    "asset": "cable_chest_fly",
-    "visualId": "cable_chest_fly",
-    "motionId": null,
+    "asset": "motion_cable_chest_fly",
+    "visualId": "motion_cable_chest_fly",
+    "motionId": "cable_chest_fly",
     "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "equipmentFamily": "functional_trainer",
+    "threeDCompatible": true,
     "posture": "pecFly",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "pecFly",
-    "model": null,
+    "model": "functional_trainer",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "delts"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "wide_grip_lat_pulldown",
@@ -1145,14 +1219,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_wide_grip_lat_pulldown",
+    "visualId": "motion_wide_grip_lat_pulldown",
+    "motionId": "wide_grip_lat_pulldown",
     "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "equipmentFamily": "lat_pulldown",
+    "threeDCompatible": true,
     "posture": "pulldown",
     "renderedEquipment": "マシン",
     "renderedMovement": "pulldown",
-    "model": null,
+    "model": "lat_pulldown",
     "mainTarget": [
       "lats"
     ],
@@ -1160,7 +1236,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "narrow_grip_lat_pulldown",
@@ -1177,14 +1253,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_narrow_grip_lat_pulldown",
+    "visualId": "motion_narrow_grip_lat_pulldown",
+    "motionId": "narrow_grip_lat_pulldown",
     "equipmentId": "generic_30de30b730f35f70756c6c646f776e",
+    "equipmentFamily": "lat_pulldown",
+    "threeDCompatible": true,
     "posture": "pulldown",
     "renderedEquipment": "マシン",
     "renderedMovement": "pulldown",
-    "model": null,
+    "model": "lat_pulldown",
     "mainTarget": [
       "lats"
     ],
@@ -1192,7 +1270,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "iso_lateral_row",
@@ -1212,14 +1290,16 @@
       "アイソラテラルロウ",
       "アイソラテラルロー"
     ],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_iso_lateral_row",
+    "visualId": "motion_iso_lateral_row",
+    "motionId": "iso_lateral_row",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "equipmentFamily": "plate_machine_row",
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "row",
-    "model": null,
+    "model": "plate_machine_row",
     "mainTarget": [
       "lats"
     ],
@@ -1227,7 +1307,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "iso_lateral_low_row",
@@ -1247,14 +1327,16 @@
       "ローロウ",
       "ローロー"
     ],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_iso_lateral_low_row",
+    "visualId": "motion_iso_lateral_low_row",
+    "motionId": "iso_lateral_low_row",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "equipmentFamily": "plate_machine_row",
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "row",
-    "model": null,
+    "model": "plate_machine_row",
     "mainTarget": [
       "lats"
     ],
@@ -1262,7 +1344,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "one_arm_cable_row",
@@ -1279,14 +1361,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_one_arm_cable_row",
+    "visualId": "motion_one_arm_cable_row",
+    "motionId": "one_arm_cable_row",
     "equipmentId": "generic_30b130fc30d630eb5f726f77",
+    "equipmentFamily": "seated_cable_row",
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "row",
-    "model": null,
+    "model": "seated_cable_row",
     "mainTarget": [
       "lats"
     ],
@@ -1294,7 +1378,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "straight_arm_lat_pulldown",
@@ -1312,21 +1396,23 @@
     "aliases": [
       "ストレートアームプルダウン"
     ],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_straight_arm_lat_pulldown",
+    "visualId": "motion_straight_arm_lat_pulldown",
+    "motionId": "straight_arm_lat_pulldown",
     "equipmentId": "generic_30b130fc30d630eb5f737472616967687441726d",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "straightArm",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "straightArm",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "lats"
     ],
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_squat",
@@ -1344,14 +1430,16 @@
       "abs"
     ],
     "aliases": [],
-    "asset": "smith_squat",
-    "visualId": "smith_squat",
-    "motionId": null,
+    "asset": "motion_smith_squat",
+    "visualId": "motion_smith_squat",
+    "motionId": "smith_squat",
     "equipmentId": "generic_30b930df30b930de30b730f35f7371756174",
+    "equipmentFamily": "smith_machine",
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "squat",
-    "model": null,
+    "model": "smith_machine",
     "mainTarget": [
       "quads",
       "glutes"
@@ -1360,7 +1448,7 @@
       "hamstrings",
       "abs"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_bulgarian_split_squat",
@@ -1382,6 +1470,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b930df30b930de30b730f35f73706c69745371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "splitSquat",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "splitSquat",
@@ -1411,14 +1501,16 @@
       "erectors"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_smith_romanian_deadlift",
+    "visualId": "motion_smith_romanian_deadlift",
+    "motionId": "smith_romanian_deadlift",
     "equipmentId": "generic_30b930df30b930de30b730f35f68696e6765",
+    "equipmentFamily": "smith_machine",
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "hinge",
-    "model": null,
+    "model": "smith_machine",
     "mainTarget": [
       "hamstrings",
       "glutes"
@@ -1426,7 +1518,7 @@
     "secondaryTargets": [
       "erectors"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_calf_raise",
@@ -1440,19 +1532,21 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_smith_calf_raise",
+    "visualId": "motion_smith_calf_raise",
+    "motionId": "smith_calf_raise",
     "equipmentId": "generic_30b930df30b930de30b730f35f63616c66",
+    "equipmentFamily": "smith_machine",
+    "threeDCompatible": true,
     "posture": "calf",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "calf",
-    "model": null,
+    "model": "smith_machine",
     "mainTarget": [
       "calves"
     ],
     "secondaryTargets": [],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "seated_incline_dumbbell_curl",
@@ -1468,21 +1562,23 @@
       "forearms"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_seated_incline_dumbbell_curl",
+    "visualId": "motion_seated_incline_dumbbell_curl",
+    "motionId": "seated_incline_dumbbell_curl",
     "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "equipmentFamily": "dumbbell_incline",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "dumbbell_incline",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cable_biceps_curl",
@@ -1500,21 +1596,23 @@
     "aliases": [
       "ケーブルカール"
     ],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_cable_biceps_curl",
+    "visualId": "motion_cable_biceps_curl",
+    "motionId": "cable_biceps_curl",
     "equipmentId": "generic_30b130fc30d630eb5f6375726c",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "ez_bar_curl",
@@ -1532,21 +1630,23 @@
     "aliases": [
       "EZバー"
     ],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_ez_bar_curl",
+    "visualId": "motion_ez_bar_curl",
+    "motionId": "ez_bar_curl",
     "equipmentId": "generic_455a30d030fc5f6375726c",
+    "equipmentFamily": "ez_bar",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "EZバー",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "ez_bar",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cable_hammer_curl",
@@ -1562,21 +1662,23 @@
       "forearms"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_cable_hammer_curl",
+    "visualId": "motion_cable_hammer_curl",
+    "motionId": "cable_hammer_curl",
     "equipmentId": "generic_30b130fc30d630eb5f6375726c",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "rope_triceps_pushdown",
@@ -1590,19 +1692,21 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_rope_triceps_pushdown",
+    "visualId": "motion_rope_triceps_pushdown",
+    "motionId": "rope_triceps_pushdown",
     "equipmentId": "generic_30b130fc30d630eb5f70757368646f776e",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "pushdown",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "pushdown",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "overhead_cable_triceps_extension",
@@ -1618,19 +1722,21 @@
     "aliases": [
       "ケーブルトライセプスエクステンション"
     ],
-    "asset": "overhead_cable_triceps_extension",
-    "visualId": "overhead_cable_triceps_extension",
-    "motionId": null,
+    "asset": "motion_overhead_cable_triceps_extension",
+    "visualId": "motion_overhead_cable_triceps_extension",
+    "motionId": "overhead_cable_triceps_extension",
     "equipmentId": "generic_30b130fc30d630eb5f6f76657268656164457874656e73696f6e",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "overheadExtension",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "overheadExtension",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_close_grip_bench_press",
@@ -1646,21 +1752,23 @@
       "chest"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_smith_close_grip_bench_press",
+    "visualId": "motion_smith_close_grip_bench_press",
+    "motionId": "smith_close_grip_bench_press",
     "equipmentId": "generic_30b930df30b930de30b730f35f62656e6368",
+    "equipmentFamily": "smith_bench",
+    "threeDCompatible": true,
     "posture": "bench",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "bench",
-    "model": null,
+    "model": "smith_bench",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [
       "chest"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "smith_shoulder_press",
@@ -1676,21 +1784,23 @@
       "triceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_smith_shoulder_press",
+    "visualId": "motion_smith_shoulder_press",
+    "motionId": "smith_shoulder_press",
     "equipmentId": "generic_30b930df30b930de30b730f35f6f766572686561645072657373",
+    "equipmentFamily": "smith_seated",
+    "threeDCompatible": true,
     "posture": "overheadPress",
     "renderedEquipment": "スミスマシン",
     "renderedMovement": "overheadPress",
-    "model": null,
+    "model": "smith_seated",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cable_lateral_raise",
@@ -1708,21 +1818,23 @@
     "aliases": [
       "ケーブルラテラルレイズ"
     ],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_cable_lateral_raise",
+    "visualId": "motion_cable_lateral_raise",
+    "motionId": "cable_lateral_raise",
     "equipmentId": "generic_30b130fc30d630eb5f6c61746572616c5261697365",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "lateralRaise",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "lateralRaise",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "upperBack"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "face_pull",
@@ -1739,14 +1851,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": "face_pull",
-    "visualId": "face_pull",
-    "motionId": null,
+    "asset": "motion_face_pull",
+    "visualId": "motion_face_pull",
+    "motionId": "face_pull",
     "equipmentId": "generic_30b130fc30d630eb5f72657665727365466c79",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "reverseFly",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "reverseFly",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "rearDelts",
       "upperBack"
@@ -1754,7 +1868,7 @@
     "secondaryTargets": [
       "biceps"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "knee_raise",
@@ -1772,6 +1886,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "legRaise",
     "renderedEquipment": "自重",
     "renderedMovement": "legRaise",
@@ -1798,6 +1914,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f6c65675261697365",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "legRaise",
     "renderedEquipment": "自重",
     "renderedMovement": "legRaise",
@@ -1824,6 +1942,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b130fc30d630eb5f6361626c654372756e6368",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "cableCrunch",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "cableCrunch",
@@ -1854,6 +1974,8 @@
     "visualId": "motion_hack_squat",
     "motionId": "hack_squat",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "equipmentFamily": "hack_squat",
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "squat",
@@ -1866,7 +1988,7 @@
       "hamstrings",
       "abs"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "v_squat",
@@ -1888,6 +2010,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "squat",
@@ -1922,6 +2046,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "squat",
@@ -1956,6 +2082,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f7371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "squat",
@@ -1985,14 +2113,16 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_plate_loaded_chest_press",
+    "visualId": "motion_plate_loaded_chest_press",
+    "motionId": "plate_loaded_chest_press",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "equipmentFamily": "plate_chest_press",
+    "threeDCompatible": true,
     "posture": "chestPress",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "chestPress",
-    "model": null,
+    "model": "plate_chest_press",
     "mainTarget": [
       "chest"
     ],
@@ -2000,7 +2130,7 @@
       "triceps",
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "plate_loaded_incline_press",
@@ -2021,6 +2151,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "chestPress",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "chestPress",
@@ -2048,21 +2180,23 @@
       "triceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_plate_loaded_shoulder_press",
+    "visualId": "motion_plate_loaded_shoulder_press",
+    "motionId": "plate_loaded_shoulder_press",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f6f766572686561645072657373",
+    "equipmentFamily": "plate_shoulder_press",
+    "threeDCompatible": true,
     "posture": "overheadPress",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "overheadPress",
-    "model": null,
+    "model": "plate_shoulder_press",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "high_row",
@@ -2083,6 +2217,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "row",
@@ -2115,6 +2251,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "row",
@@ -2142,21 +2280,23 @@
       "chest"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_machine_pullover",
+    "visualId": "motion_machine_pullover",
+    "motionId": "machine_pullover",
     "equipmentId": "generic_30de30b730f35f70756c6c6f766572",
+    "equipmentFamily": "pullover_machine",
+    "threeDCompatible": true,
     "posture": "pullover",
     "renderedEquipment": "マシン",
     "renderedMovement": "pullover",
-    "model": null,
+    "model": "pullover_machine",
     "mainTarget": [
       "lats"
     ],
     "secondaryTargets": [
       "chest"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "assisted_dip",
@@ -2176,6 +2316,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f646970",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "dip",
     "renderedEquipment": "マシン",
     "renderedMovement": "dip",
@@ -2207,6 +2349,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f70756c6c7570",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "pullup",
     "renderedEquipment": "マシン",
     "renderedMovement": "pullup",
@@ -2234,21 +2378,23 @@
       "hamstrings"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_machine_hip_thrust",
+    "visualId": "motion_machine_hip_thrust",
+    "motionId": "machine_hip_thrust",
     "equipmentId": "generic_30de30b730f35f686970546872757374",
+    "equipmentFamily": "hip_thrust",
+    "threeDCompatible": true,
     "posture": "hipThrust",
     "renderedEquipment": "マシン",
     "renderedMovement": "hipThrust",
-    "model": null,
+    "model": "hip_thrust",
     "mainTarget": [
       "glutes"
     ],
     "secondaryTargets": [
       "hamstrings"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "glute_drive",
@@ -2264,21 +2410,23 @@
       "hamstrings"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_glute_drive",
+    "visualId": "motion_glute_drive",
+    "motionId": "glute_drive",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f686970546872757374",
+    "equipmentFamily": "plate_hip_thrust",
+    "threeDCompatible": true,
     "posture": "hipThrust",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "hipThrust",
-    "model": null,
+    "model": "plate_hip_thrust",
     "mainTarget": [
       "glutes"
     ],
     "secondaryTargets": [
       "hamstrings"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "seated_calf_raise",
@@ -2292,19 +2440,21 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_seated_calf_raise",
+    "visualId": "motion_seated_calf_raise",
+    "motionId": "seated_calf_raise",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f73656174656443616c66",
+    "equipmentFamily": "seated_calf",
+    "threeDCompatible": true,
     "posture": "seatedCalf",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "seatedCalf",
-    "model": null,
+    "model": "seated_calf",
     "mainTarget": [
       "calves"
     ],
     "secondaryTargets": [],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "lying_leg_curl",
@@ -2320,21 +2470,23 @@
       "calves"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_lying_leg_curl",
+    "visualId": "motion_lying_leg_curl",
+    "motionId": "lying_leg_curl",
     "equipmentId": "generic_30de30b730f35f6c79696e674375726c",
+    "equipmentFamily": "lying_leg_curl",
+    "threeDCompatible": true,
     "posture": "lyingCurl",
     "renderedEquipment": "マシン",
     "renderedMovement": "lyingCurl",
-    "model": null,
+    "model": "lying_leg_curl",
     "mainTarget": [
       "hamstrings"
     ],
     "secondaryTargets": [
       "calves"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "rear_delt_machine_fly",
@@ -2350,21 +2502,23 @@
       "upperBack"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_rear_delt_machine_fly",
+    "visualId": "motion_rear_delt_machine_fly",
+    "motionId": "rear_delt_machine_fly",
     "equipmentId": "generic_30de30b730f35f72657665727365466c79",
+    "equipmentFamily": "rear_delt",
+    "threeDCompatible": true,
     "posture": "reverseFly",
     "renderedEquipment": "マシン",
     "renderedMovement": "reverseFly",
-    "model": null,
+    "model": "rear_delt",
     "mainTarget": [
       "rearDelts"
     ],
     "secondaryTargets": [
       "upperBack"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cable_high_to_low_fly",
@@ -2380,21 +2534,23 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_cable_high_to_low_fly",
+    "visualId": "motion_cable_high_to_low_fly",
+    "motionId": "cable_high_to_low_fly",
     "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "equipmentFamily": "functional_trainer",
+    "threeDCompatible": true,
     "posture": "pecFly",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "pecFly",
-    "model": null,
+    "model": "functional_trainer",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cable_low_to_high_fly",
@@ -2410,21 +2566,23 @@
       "delts"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_cable_low_to_high_fly",
+    "visualId": "motion_cable_low_to_high_fly",
+    "motionId": "cable_low_to_high_fly",
     "equipmentId": "generic_30b130fc30d630eb5f706563466c79",
+    "equipmentFamily": "functional_trainer",
+    "threeDCompatible": true,
     "posture": "pecFly",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "pecFly",
-    "model": null,
+    "model": "functional_trainer",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "delts"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cable_pullover",
@@ -2440,21 +2598,23 @@
       "triceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_cable_pullover",
+    "visualId": "motion_cable_pullover",
+    "motionId": "cable_pullover",
     "equipmentId": "generic_30b130fc30d630eb5f737472616967687441726d",
+    "equipmentFamily": "cable_station",
+    "threeDCompatible": true,
     "posture": "straightArm",
     "renderedEquipment": "ケーブル",
     "renderedMovement": "straightArm",
-    "model": null,
+    "model": "cable_station",
     "mainTarget": [
       "lats"
     ],
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "front_squat",
@@ -2472,14 +2632,16 @@
       "abs"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_front_squat",
+    "visualId": "motion_front_squat",
+    "motionId": "front_squat",
     "equipmentId": "generic_30d030fc30d930eb5f7371756174",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "バーベル",
     "renderedMovement": "squat",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "quads",
       "glutes"
@@ -2488,7 +2650,7 @@
       "hamstrings",
       "abs"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "bulgarian_split_squat",
@@ -2510,10 +2672,12 @@
     "visualId": "motion_bulgarian_split_squat",
     "motionId": "bulgarian_split_squat",
     "equipmentId": "generic_30c030f330d930eb5f73706c69745371756174",
+    "equipmentFamily": "dumbbell_split_bench",
+    "threeDCompatible": true,
     "posture": "splitSquat",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "splitSquat",
-    "model": "bulgarian_split_squat",
+    "model": "dumbbell_split_bench",
     "mainTarget": [
       "quads",
       "glutes"
@@ -2522,7 +2686,7 @@
       "hamstrings",
       "abs"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "romanian_deadlift",
@@ -2539,14 +2703,16 @@
       "erectors"
     ],
     "aliases": [],
-    "asset": "romanian_deadlift",
-    "visualId": "romanian_deadlift",
-    "motionId": null,
+    "asset": "motion_romanian_deadlift",
+    "visualId": "motion_romanian_deadlift",
+    "motionId": "romanian_deadlift",
     "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hinge",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "hamstrings",
       "glutes"
@@ -2554,7 +2720,7 @@
     "secondaryTargets": [
       "erectors"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "stiff_leg_deadlift",
@@ -2571,14 +2737,16 @@
       "erectors"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_stiff_leg_deadlift",
+    "visualId": "motion_stiff_leg_deadlift",
+    "motionId": "stiff_leg_deadlift",
     "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hinge",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "hamstrings",
       "glutes"
@@ -2586,7 +2754,7 @@
     "secondaryTargets": [
       "erectors"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "sumo_deadlift",
@@ -2604,14 +2772,16 @@
       "erectors"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_sumo_deadlift",
+    "visualId": "motion_sumo_deadlift",
+    "motionId": "sumo_deadlift",
     "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hinge",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "glutes",
       "adductors"
@@ -2620,7 +2790,7 @@
       "quads",
       "erectors"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "t_bar_row",
@@ -2637,14 +2807,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": "t_bar_row",
-    "visualId": "t_bar_row",
-    "motionId": null,
+    "asset": "motion_t_bar_row",
+    "visualId": "motion_t_bar_row",
+    "motionId": "t_bar_row",
     "equipmentId": "generic_30e930f330c930de30a430f35f62656e74526f77",
+    "equipmentFamily": "landmine_row",
+    "threeDCompatible": true,
     "posture": "bentRow",
     "renderedEquipment": "ランドマイン",
     "renderedMovement": "bentRow",
-    "model": null,
+    "model": "landmine_row",
     "mainTarget": [
       "lats"
     ],
@@ -2652,7 +2824,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "pendlay_row",
@@ -2669,14 +2841,16 @@
       "erectors"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_pendlay_row",
+    "visualId": "motion_pendlay_row",
+    "motionId": "pendlay_row",
     "equipmentId": "generic_30d030fc30d930eb5f62656e74526f77",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "bentRow",
     "renderedEquipment": "バーベル",
     "renderedMovement": "bentRow",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "lats"
     ],
@@ -2684,7 +2858,7 @@
       "upperBack",
       "erectors"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "landmine_press",
@@ -2701,10 +2875,12 @@
       "chest"
     ],
     "aliases": [],
-    "asset": "landmine_press",
-    "visualId": "landmine_press",
+    "asset": null,
+    "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30e930f330c930de30a430f35f6c616e646d696e655072657373",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "landminePress",
     "renderedEquipment": "ランドマイン",
     "renderedMovement": "landminePress",
@@ -2716,7 +2892,7 @@
       "triceps",
       "chest"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "equipment-icon"
   },
   {
     "id": "landmine_row",
@@ -2733,14 +2909,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_landmine_row",
+    "visualId": "motion_landmine_row",
+    "motionId": "landmine_row",
     "equipmentId": "generic_30e930f330c930de30a430f35f62656e74526f77",
+    "equipmentFamily": "landmine_row",
+    "threeDCompatible": true,
     "posture": "bentRow",
     "renderedEquipment": "ランドマイン",
     "renderedMovement": "bentRow",
-    "model": null,
+    "model": "landmine_row",
     "mainTarget": [
       "lats"
     ],
@@ -2748,7 +2926,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "snatch_grip_deadlift",
@@ -2766,14 +2944,16 @@
       "quads"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_snatch_grip_deadlift",
+    "visualId": "motion_snatch_grip_deadlift",
+    "motionId": "snatch_grip_deadlift",
     "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hinge",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "erectors",
       "glutes"
@@ -2782,7 +2962,7 @@
       "hamstrings",
       "quads"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "good_morning",
@@ -2803,6 +2983,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d030fc30d930eb5f68696e6765",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hinge",
@@ -2836,6 +3018,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30bb30fc30d530c630a330b930af30ef30c330c830d030fc5f7371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "セーフティスクワットバー",
     "renderedMovement": "squat",
@@ -2872,6 +3056,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30c830e930c330d730d030fc5f68696e6765",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "hinge",
     "renderedEquipment": "トラップバー",
     "renderedMovement": "hinge",
@@ -2907,6 +3093,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30ab30f330d030fc30d030fc5f7371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "カンバーバー",
     "renderedMovement": "squat",
@@ -2940,6 +3128,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b930a430b930d030fc5f62656e6368",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "bench",
     "renderedEquipment": "スイスバー",
     "renderedMovement": "bench",
@@ -2970,6 +3160,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d530a130c330c830b030ea30c330d75f6375726c",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "ファットグリップ",
     "renderedMovement": "curl",
@@ -3000,6 +3192,8 @@
     "visualId": "motion_sled_push",
     "motionId": "sled_push",
     "equipmentId": "generic_30b930ec30c330c95f736c6564",
+    "equipmentFamily": "sled",
+    "threeDCompatible": true,
     "posture": "sled",
     "renderedEquipment": "スレッド",
     "renderedMovement": "sled",
@@ -3011,7 +3205,7 @@
     "secondaryTargets": [
       "calves"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "farmers_walk",
@@ -3035,6 +3229,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d530a130fc30de30fc30ba30cf30f330c930eb5f6361727279",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "carry",
     "renderedEquipment": "ファーマーズハンドル",
     "renderedMovement": "carry",
@@ -3068,6 +3264,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b130c830eb30d930eb5f7377696e67",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "swing",
     "renderedEquipment": "ケトルベル",
     "renderedMovement": "swing",
@@ -3101,6 +3299,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b130c830eb30d930eb5f7371756174",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "squat",
     "renderedEquipment": "ケトルベル",
     "renderedMovement": "squat",
@@ -3133,6 +3333,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b130c830eb30d930eb5f6f766572686561645072657373",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "overheadPress",
     "renderedEquipment": "ケトルベル",
     "renderedMovement": "overheadPress",
@@ -3159,21 +3361,23 @@
       "hamstrings"
     ],
     "aliases": [],
-    "asset": "barbell_hip_thrust",
-    "visualId": "barbell_hip_thrust",
-    "motionId": null,
+    "asset": "motion_barbell_hip_thrust",
+    "visualId": "motion_barbell_hip_thrust",
+    "motionId": "barbell_hip_thrust",
     "equipmentId": "generic_30d030fc30d930eb5f686970546872757374",
+    "equipmentFamily": "barbell_hip_bench",
+    "threeDCompatible": true,
     "posture": "hipThrust",
     "renderedEquipment": "バーベル",
     "renderedMovement": "hipThrust",
-    "model": null,
+    "model": "barbell_hip_bench",
     "mainTarget": [
       "glutes"
     ],
     "secondaryTargets": [
       "hamstrings"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "pullup",
@@ -3190,14 +3394,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": "pullup",
-    "visualId": "pullup",
-    "motionId": null,
+    "asset": "motion_pullup",
+    "visualId": "motion_pullup",
+    "motionId": "pullup",
     "equipmentId": "generic_81ea91cd5f70756c6c7570",
+    "equipmentFamily": "pullup_station",
+    "threeDCompatible": true,
     "posture": "pullup",
     "renderedEquipment": "自重",
     "renderedMovement": "pullup",
-    "model": null,
+    "model": "pullup_station",
     "mainTarget": [
       "lats"
     ],
@@ -3205,7 +3411,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dip",
@@ -3221,21 +3427,23 @@
       "triceps"
     ],
     "aliases": [],
-    "asset": "dip",
-    "visualId": "dip",
-    "motionId": null,
+    "asset": "motion_dip",
+    "visualId": "motion_dip",
+    "motionId": "dip",
     "equipmentId": "generic_81ea91cd5f646970",
+    "equipmentFamily": "dip_station",
+    "threeDCompatible": true,
     "posture": "dip",
     "renderedEquipment": "自重",
     "renderedMovement": "dip",
-    "model": null,
+    "model": "dip_station",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "existing-authored-static"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "barbell_bent_over_row",
@@ -3252,14 +3460,16 @@
       "erectors"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_barbell_bent_over_row",
+    "visualId": "motion_barbell_bent_over_row",
+    "motionId": "barbell_bent_over_row",
     "equipmentId": "generic_30d030fc30d930eb5f62656e74526f77",
+    "equipmentFamily": "barbell",
+    "threeDCompatible": true,
     "posture": "bentRow",
     "renderedEquipment": "バーベル",
     "renderedMovement": "bentRow",
-    "model": null,
+    "model": "barbell",
     "mainTarget": [
       "lats"
     ],
@@ -3267,7 +3477,7 @@
       "upperBack",
       "erectors"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dumbbell_shoulder_press",
@@ -3283,21 +3493,23 @@
       "triceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_dumbbell_shoulder_press",
+    "visualId": "motion_dumbbell_shoulder_press",
+    "motionId": "dumbbell_shoulder_press",
     "equipmentId": "generic_30c030f330d930eb5f6f766572686561645072657373",
+    "equipmentFamily": "dumbbell_seated",
+    "threeDCompatible": true,
     "posture": "overheadPress",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "overheadPress",
-    "model": null,
+    "model": "dumbbell_seated",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "triceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dumbbell_pullover",
@@ -3313,21 +3525,23 @@
       "lats"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_dumbbell_pullover",
+    "visualId": "motion_dumbbell_pullover",
+    "motionId": "dumbbell_pullover",
     "equipmentId": "generic_30c030f330d930eb5f70756c6c6f766572",
+    "equipmentFamily": "dumbbell_bench",
+    "threeDCompatible": true,
     "posture": "pullover",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "pullover",
-    "model": null,
+    "model": "dumbbell_bench",
     "mainTarget": [
       "chest"
     ],
     "secondaryTargets": [
       "lats"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "dumbbell_overhead_extension",
@@ -3341,19 +3555,89 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_dumbbell_overhead_extension",
+    "visualId": "motion_dumbbell_overhead_extension",
+    "motionId": "dumbbell_overhead_extension",
     "equipmentId": "generic_30c030f330d930eb5f6f76657268656164457874656e73696f6e",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
     "posture": "overheadExtension",
     "renderedEquipment": "ダンベル",
     "renderedMovement": "overheadExtension",
-    "model": null,
+    "model": "dumbbell",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
+  },
+  {
+    "id": "dumbbell_preacher_curl",
+    "name": "プリーチャーカール（ダンベル）",
+    "bodyPart": "腕",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "curl",
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ],
+    "aliases": [],
+    "asset": "motion_dumbbell_preacher_curl",
+    "visualId": "motion_dumbbell_preacher_curl",
+    "motionId": "dumbbell_preacher_curl",
+    "equipmentId": "generic_30c030f330d930eb5f6375726c",
+    "equipmentFamily": "dumbbell_preacher",
+    "threeDCompatible": true,
+    "posture": "curl",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "curl",
+    "model": "dumbbell_preacher",
+    "mainTarget": [
+      "biceps"
+    ],
+    "secondaryTargets": [
+      "forearms"
+    ],
+    "provenance": "original-anatomical-glb-v2"
+  },
+  {
+    "id": "dumbbell_lunge",
+    "name": "ランジ（ダンベル）",
+    "bodyPart": "脚",
+    "isCustom": false,
+    "equipment": "ダンベル",
+    "pattern": "splitSquat",
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "abs"
+    ],
+    "aliases": [],
+    "asset": "motion_dumbbell_lunge",
+    "visualId": "motion_dumbbell_lunge",
+    "motionId": "dumbbell_lunge",
+    "equipmentId": "generic_30c030f330d930eb5f73706c69745371756174",
+    "equipmentFamily": "dumbbell",
+    "threeDCompatible": true,
+    "posture": "splitSquat",
+    "renderedEquipment": "ダンベル",
+    "renderedMovement": "splitSquat",
+    "model": "dumbbell",
+    "mainTarget": [
+      "quads",
+      "glutes"
+    ],
+    "secondaryTargets": [
+      "hamstrings",
+      "abs"
+    ],
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "rotary_torso",
@@ -3371,6 +3655,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f726f746174696f6e",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "rotation",
     "renderedEquipment": "マシン",
     "renderedMovement": "rotation",
@@ -3400,6 +3686,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "row",
@@ -3432,6 +3720,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f63686573745072657373",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "chestPress",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "chestPress",
@@ -3460,14 +3750,16 @@
       "upperBack"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_plate_loaded_lat_pulldown",
+    "visualId": "motion_plate_loaded_lat_pulldown",
+    "motionId": "plate_loaded_lat_pulldown",
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f70756c6c646f776e",
+    "equipmentFamily": "plate_lat_pulldown",
+    "threeDCompatible": true,
     "posture": "pulldown",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "pulldown",
-    "model": null,
+    "model": "plate_lat_pulldown",
     "mainTarget": [
       "lats"
     ],
@@ -3475,7 +3767,7 @@
       "biceps",
       "upperBack"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "machine_t_bar_row",
@@ -3496,6 +3788,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30d730ec30fc30c830ed30fc30c95f726f77",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "プレートロード",
     "renderedMovement": "row",
@@ -3524,14 +3818,16 @@
       "biceps"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_machine_seated_row",
+    "visualId": "motion_machine_seated_row",
+    "motionId": "machine_seated_row",
     "equipmentId": "generic_30de30b730f35f726f77",
+    "equipmentFamily": "machine_row",
+    "threeDCompatible": true,
     "posture": "row",
     "renderedEquipment": "マシン",
     "renderedMovement": "row",
-    "model": null,
+    "model": "machine_row",
     "mainTarget": [
       "lats"
     ],
@@ -3539,7 +3835,7 @@
       "upperBack",
       "biceps"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "machine_biceps_curl",
@@ -3555,21 +3851,23 @@
       "forearms"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_machine_biceps_curl",
+    "visualId": "motion_machine_biceps_curl",
+    "motionId": "machine_biceps_curl",
     "equipmentId": "generic_30de30b730f35f6375726c",
+    "equipmentFamily": "preacher_machine",
+    "threeDCompatible": true,
     "posture": "curl",
     "renderedEquipment": "マシン",
     "renderedMovement": "curl",
-    "model": null,
+    "model": "preacher_machine",
     "mainTarget": [
       "biceps"
     ],
     "secondaryTargets": [
       "forearms"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "machine_triceps_extension",
@@ -3583,19 +3881,21 @@
     ],
     "secondary": [],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_machine_triceps_extension",
+    "visualId": "motion_machine_triceps_extension",
+    "motionId": "machine_triceps_extension",
     "equipmentId": "generic_30de30b730f35f70757368646f776e",
+    "equipmentFamily": "triceps_machine",
+    "threeDCompatible": true,
     "posture": "pushdown",
     "renderedEquipment": "マシン",
     "renderedMovement": "pushdown",
-    "model": null,
+    "model": "triceps_machine",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "machine_lateral_raise",
@@ -3611,21 +3911,23 @@
       "upperBack"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_machine_lateral_raise",
+    "visualId": "motion_machine_lateral_raise",
+    "motionId": "machine_lateral_raise",
     "equipmentId": "generic_30de30b730f35f6c61746572616c5261697365",
+    "equipmentFamily": "lateral_raise_machine",
+    "threeDCompatible": true,
     "posture": "lateralRaise",
     "renderedEquipment": "マシン",
     "renderedMovement": "lateralRaise",
-    "model": null,
+    "model": "lateral_raise_machine",
     "mainTarget": [
       "delts"
     ],
     "secondaryTargets": [
       "upperBack"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "machine_glute_extension",
@@ -3645,6 +3947,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f686970457874656e73696f6e",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "hipExtension",
     "renderedEquipment": "マシン",
     "renderedMovement": "hipExtension",
@@ -3671,21 +3975,23 @@
       "chest"
     ],
     "aliases": [],
-    "asset": null,
-    "visualId": null,
-    "motionId": null,
+    "asset": "motion_seated_dip",
+    "visualId": "motion_seated_dip",
+    "motionId": "seated_dip",
     "equipmentId": "generic_30de30b730f35f646970",
+    "equipmentFamily": "seated_dip",
+    "threeDCompatible": true,
     "posture": "dip",
     "renderedEquipment": "マシン",
     "renderedMovement": "dip",
-    "model": null,
+    "model": "seated_dip",
     "mainTarget": [
       "triceps"
     ],
     "secondaryTargets": [
       "chest"
     ],
-    "provenance": "equipment-icon"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "sled_pull",
@@ -3707,6 +4013,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b930ec30c330c95f736c656450756c6c",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "sledPull",
     "renderedEquipment": "スレッド",
     "renderedMovement": "sledPull",
@@ -3740,6 +4048,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b930ec30c330c95f736c656444726167",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "sledDrag",
     "renderedEquipment": "スレッド",
     "renderedMovement": "sledDrag",
@@ -3772,6 +4082,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30ed30fc30d730c830ec30fc30ca30fc5f726f706550756c6c",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "ropePull",
     "renderedEquipment": "ロープトレーナー",
     "renderedMovement": "ropePull",
@@ -3800,6 +4112,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f63617264696f5f77616c6b696e67",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "自重",
     "renderedMovement": null,
@@ -3823,6 +4137,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f77616c6b696e67",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "マシン",
     "renderedMovement": null,
@@ -3846,6 +4162,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f63617264696f5f6a6f6767696e67",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "自重",
     "renderedMovement": null,
@@ -3869,6 +4187,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_81ea91cd5f63617264696f5f72756e6e696e67",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "自重",
     "renderedMovement": null,
@@ -3892,6 +4212,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f63617264696f5f74726561646d696c6c5f72756e6e696e67",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "マシン",
     "renderedMovement": null,
@@ -3920,10 +4242,12 @@
     "visualId": "motion_cardio_stationary_bike",
     "motionId": "cardio_stationary_bike",
     "equipmentId": "generic_30de30b730f35f63617264696f5f73746174696f6e6172795f62696b65",
+    "equipmentFamily": "bike",
+    "threeDCompatible": true,
     "posture": "cycling",
     "renderedEquipment": "マシン",
     "renderedMovement": "cycling",
-    "model": "bikeerg",
+    "model": "bike",
     "mainTarget": [
       "quads"
     ],
@@ -3931,7 +4255,7 @@
       "glutes",
       "calves"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cardio_cross_trainer",
@@ -3948,6 +4272,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f63617264696f5f63726f73735f747261696e6572",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "マシン",
     "renderedMovement": null,
@@ -3971,6 +4297,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30de30b730f35f63617264696f5f73746169725f636c696d626572",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "マシン",
     "renderedMovement": null,
@@ -3999,10 +4327,12 @@
     "visualId": "motion_cardio_rowing_machine",
     "motionId": "cardio_rowing_machine",
     "equipmentId": "generic_30de30b730f35f63617264696f5f726f77696e675f6d616368696e65",
+    "equipmentFamily": "rower",
+    "threeDCompatible": true,
     "posture": "rowing",
     "renderedEquipment": "マシン",
     "renderedMovement": "rowing",
-    "model": "rowerg",
+    "model": "rower",
     "mainTarget": [
       "quads",
       "lats"
@@ -4010,7 +4340,7 @@
     "secondaryTargets": [
       "biceps"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cardio_jump_rope",
@@ -4027,6 +4357,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_305d306e4ed65f63617264696f5f6a756d705f726f7065",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": null,
     "renderedEquipment": "その他",
     "renderedMovement": null,
@@ -4056,10 +4388,12 @@
     "visualId": "motion_cardio_ski_erg",
     "motionId": "cardio_ski_erg",
     "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69",
+    "equipmentFamily": "ski_erg",
+    "threeDCompatible": true,
     "posture": "ski",
     "renderedEquipment": "スキーエルゴ",
     "renderedMovement": "ski",
-    "model": "skierg",
+    "model": "ski_erg",
     "mainTarget": [
       "lats",
       "triceps"
@@ -4068,7 +4402,7 @@
       "abs",
       "glutes"
     ],
-    "provenance": "original-procedural-glb-v1"
+    "provenance": "original-anatomical-glb-v2"
   },
   {
     "id": "cardio_ski_alternating",
@@ -4090,6 +4424,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30b930ad30fc30a830eb30b45f736b69416c7465726e617465",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "skiAlternate",
     "renderedEquipment": "スキーエルゴ",
     "renderedMovement": "skiAlternate",
@@ -4123,6 +4459,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30e930c630e930eb30a830ea30d730c630a330ab30eb5f6c61746572616c456c6c6970746963616c",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "lateralElliptical",
     "renderedEquipment": "ラテラルエリプティカル",
     "renderedMovement": "lateralElliptical",
@@ -4156,6 +4494,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30ea30ab30f330d930f330c830a830ea30d730c630a330ab30eb5f726563756d62656e74456c6c6970746963616c",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "recumbentElliptical",
     "renderedEquipment": "リカンベントエリプティカル",
     "renderedMovement": "recumbentElliptical",
@@ -4190,6 +4530,8 @@
     "visualId": null,
     "motionId": null,
     "equipmentId": "generic_30a830a230d030a430af5f61697242696b65",
+    "equipmentFamily": null,
+    "threeDCompatible": true,
     "posture": "airBike",
     "renderedEquipment": "エアバイク",
     "renderedMovement": "airBike",

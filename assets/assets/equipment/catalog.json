@@ -401,7 +401,8 @@
       "exerciseIds": [
         "dumbbell_curl",
         "hammer_curl",
-        "seated_incline_dumbbell_curl"
+        "seated_incline_dumbbell_curl",
+        "dumbbell_preacher_curl"
       ]
     },
     {
@@ -1390,7 +1391,8 @@
       "cardio": false,
       "officialReference": null,
       "exerciseIds": [
-        "bulgarian_split_squat"
+        "bulgarian_split_squat",
+        "dumbbell_lunge"
       ]
     },
     {
